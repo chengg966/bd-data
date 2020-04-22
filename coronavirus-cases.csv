@@ -1,0 +1,2211 @@
+Area name,Area code,Area type,Specimen date,Daily lab-confirmed cases,Cumulative lab-confirmed cases
+York,E06000014,Upper tier local authority,05/04/2020,4,78
+Worcestershire,E10000034,Upper tier local authority,05/04/2020,24,462
+Wolverhampton,E08000031,Upper tier local authority,05/04/2020,10,337
+Wokingham,E06000041,Upper tier local authority,05/04/2020,8,127
+Wirral,E08000015,Upper tier local authority,05/04/2020,43,338
+Windsor and Maidenhead,E06000040,Upper tier local authority,05/04/2020,4,120
+Wiltshire,E06000054,Upper tier local authority,05/04/2020,18,180
+Wigan,E08000010,Upper tier local authority,05/04/2020,15,213
+Westminster,E09000033,Upper tier local authority,05/04/2020,17,420
+West Sussex,E10000032,Upper tier local authority,05/04/2020,27,426
+West Berkshire,E06000037,Upper tier local authority,05/04/2020,6,120
+Warwickshire,E10000031,Upper tier local authority,05/04/2020,24,486
+Warrington,E06000007,Upper tier local authority,05/04/2020,23,184
+Wandsworth,E09000032,Upper tier local authority,05/04/2020,17,601
+Waltham Forest,E09000031,Upper tier local authority,05/04/2020,26,421
+Walsall,E08000030,Upper tier local authority,05/04/2020,17,427
+Wakefield,E08000036,Upper tier local authority,05/04/2020,21,210
+Trafford,E08000009,Upper tier local authority,05/04/2020,19,262
+Tower Hamlets,E09000030,Upper tier local authority,05/04/2020,19,384
+Torbay,E06000027,Upper tier local authority,05/04/2020,3,61
+Thurrock,E06000034,Upper tier local authority,05/04/2020,9,142
+Telford and Wrekin,E06000020,Upper tier local authority,05/04/2020,9,101
+Tameside,E08000008,Upper tier local authority,05/04/2020,14,191
+Swindon,E06000030,Upper tier local authority,05/04/2020,10,95
+Sutton,E09000029,Upper tier local authority,05/04/2020,10,313
+Surrey,E10000030,Upper tier local authority,05/04/2020,66,1119
+Sunderland,E08000024,Upper tier local authority,05/04/2020,49,386
+Suffolk,E10000029,Upper tier local authority,05/04/2020,31,320
+Stoke-on-Trent,E06000021,Upper tier local authority,05/04/2020,7,121
+Stockton-on-Tees,E06000004,Upper tier local authority,05/04/2020,12,137
+Stockport,E08000007,Upper tier local authority,05/04/2020,26,304
+Staffordshire,E10000028,Upper tier local authority,05/04/2020,32,652
+St. Helens,E08000013,Upper tier local authority,05/04/2020,20,271
+Southwark,E09000028,Upper tier local authority,05/04/2020,25,750
+Southend-on-Sea,E06000033,Upper tier local authority,05/04/2020,9,159
+Southampton,E06000045,Upper tier local authority,05/04/2020,12,190
+South Tyneside,E08000023,Upper tier local authority,05/04/2020,15,126
+South Gloucestershire,E06000025,Upper tier local authority,05/04/2020,10,146
+Somerset,E10000027,Upper tier local authority,05/04/2020,9,135
+Solihull,E08000029,Upper tier local authority,05/04/2020,10,261
+Slough,E06000039,Upper tier local authority,05/04/2020,5,172
+Shropshire,E06000051,Upper tier local authority,05/04/2020,7,180
+Sheffield,E08000019,Upper tier local authority,05/04/2020,66,1033
+Sefton,E08000014,Upper tier local authority,05/04/2020,27,320
+Sandwell,E08000028,Upper tier local authority,05/04/2020,24,420
+Salford,E08000006,Upper tier local authority,05/04/2020,18,276
+Rutland,E06000017,Upper tier local authority,05/04/2020,1,8
+Rotherham,E08000018,Upper tier local authority,05/04/2020,9,259
+Rochdale,E08000005,Upper tier local authority,05/04/2020,11,196
+Richmond upon Thames,E09000027,Upper tier local authority,05/04/2020,7,229
+Redcar and Cleveland,E06000003,Upper tier local authority,05/04/2020,8,119
+Redbridge,E09000026,Upper tier local authority,05/04/2020,22,357
+Reading,E06000038,Upper tier local authority,05/04/2020,8,134
+Portsmouth,E06000044,Upper tier local authority,05/04/2020,10,122
+Plymouth,E06000026,Upper tier local authority,05/04/2020,1,103
+Peterborough,E06000031,Upper tier local authority,05/04/2020,6,81
+Oxfordshire,E10000025,Upper tier local authority,05/04/2020,49,600
+Oldham,E08000004,Upper tier local authority,05/04/2020,13,242
+Nottinghamshire,E10000024,Upper tier local authority,05/04/2020,20,495
+Nottingham,E06000018,Upper tier local authority,05/04/2020,11,211
+Northumberland,E06000057,Upper tier local authority,05/04/2020,23,229
+Northamptonshire,E10000021,Upper tier local authority,05/04/2020,34,549
+North Yorkshire,E10000023,Upper tier local authority,05/04/2020,22,316
+North Tyneside,E08000022,Upper tier local authority,05/04/2020,18,198
+North Somerset,E06000024,Upper tier local authority,05/04/2020,4,87
+North East Lincolnshire,E06000012,Upper tier local authority,05/04/2020,2,52
+Norfolk,E10000020,Upper tier local authority,05/04/2020,36,387
+Newham,E09000025,Upper tier local authority,05/04/2020,24,568
+Newcastle upon Tyne,E08000021,Upper tier local authority,05/04/2020,24,391
+Milton Keynes,E06000042,Upper tier local authority,05/04/2020,21,218
+Middlesbrough,E06000002,Upper tier local authority,05/04/2020,21,191
+Merton,E09000024,Upper tier local authority,05/04/2020,17,389
+Medway,E06000035,Upper tier local authority,05/04/2020,19,251
+Manchester,E08000003,Upper tier local authority,05/04/2020,36,396
+Luton,E06000032,Upper tier local authority,05/04/2020,27,250
+Liverpool,E08000012,Upper tier local authority,05/04/2020,46,601
+Lincolnshire,E10000019,Upper tier local authority,05/04/2020,21,322
+Lewisham,E09000023,Upper tier local authority,05/04/2020,28,548
+Leicestershire,E10000018,Upper tier local authority,05/04/2020,31,393
+Leicester,E06000016,Upper tier local authority,05/04/2020,20,251
+Leeds,E08000035,Upper tier local authority,05/04/2020,36,388
+Lancashire,E10000017,Upper tier local authority,05/04/2020,94,1048
+Lambeth,E09000022,Upper tier local authority,05/04/2020,17,726
+Knowsley,E08000011,Upper tier local authority,05/04/2020,15,191
+Kirklees,E08000034,Upper tier local authority,05/04/2020,12,220
+Kingston upon Thames,E09000021,Upper tier local authority,05/04/2020,9,216
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,05/04/2020,4,56
+Kent,E10000016,Upper tier local authority,05/04/2020,72,1061
+Kensington and Chelsea,E09000020,Upper tier local authority,05/04/2020,6,291
+Islington,E09000019,Upper tier local authority,05/04/2020,4,280
+Isle of Wight,E06000046,Upper tier local authority,05/04/2020,2,33
+Hounslow,E09000018,Upper tier local authority,05/04/2020,19,379
+Hillingdon,E09000017,Upper tier local authority,05/04/2020,16,391
+Hertfordshire,E10000015,Upper tier local authority,05/04/2020,62,1082
+"Herefordshire, County of",E06000019,Upper tier local authority,05/04/2020,4,72
+Havering,E09000016,Upper tier local authority,05/04/2020,20,308
+Hartlepool,E06000001,Upper tier local authority,05/04/2020,3,39
+Harrow,E09000015,Upper tier local authority,05/04/2020,26,522
+Haringey,E09000014,Upper tier local authority,05/04/2020,8,337
+Hampshire,E10000014,Upper tier local authority,05/04/2020,74,1172
+Hammersmith and Fulham,E09000013,Upper tier local authority,05/04/2020,10,305
+Halton,E06000006,Upper tier local authority,05/04/2020,15,124
+Hackney,E09000012,Upper tier local authority,05/04/2020,20,392
+Greenwich,E09000011,Upper tier local authority,05/04/2020,21,360
+Gloucestershire,E10000013,Upper tier local authority,05/04/2020,31,410
+Gateshead,E08000037,Upper tier local authority,05/04/2020,20,228
+Essex,E10000012,Upper tier local authority,05/04/2020,53,1137
+Enfield,E09000010,Upper tier local authority,05/04/2020,12,399
+East Sussex,E10000011,Upper tier local authority,05/04/2020,12,227
+East Riding of Yorkshire,E06000011,Upper tier local authority,05/04/2020,10,129
+Ealing,E09000009,Upper tier local authority,05/04/2020,14,558
+Dudley,E08000027,Upper tier local authority,05/04/2020,20,349
+Dorset,E06000059,Upper tier local authority,05/04/2020,6,135
+Devon,E10000008,Upper tier local authority,05/04/2020,20,271
+Derbyshire,E10000007,Upper tier local authority,05/04/2020,8,570
+Derby,E06000015,Upper tier local authority,05/04/2020,2,301
+Darlington,E06000005,Upper tier local authority,05/04/2020,2,55
+Cumbria,E10000006,Upper tier local authority,05/04/2020,79,874
+Croydon,E09000008,Upper tier local authority,05/04/2020,36,778
+Coventry,E08000026,Upper tier local authority,05/04/2020,10,305
+County Durham,E06000047,Upper tier local authority,05/04/2020,26,330
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,05/04/2020,11,208
+Cheshire West and Chester,E06000050,Upper tier local authority,05/04/2020,32,282
+Cheshire East,E06000049,Upper tier local authority,05/04/2020,27,247
+Central Bedfordshire,E06000056,Upper tier local authority,05/04/2020,16,201
+Camden,E09000007,Upper tier local authority,05/04/2020,16,346
+Cambridgeshire,E10000003,Upper tier local authority,05/04/2020,26,298
+Calderdale,E08000033,Upper tier local authority,05/04/2020,3,97
+Bury,E08000002,Upper tier local authority,05/04/2020,15,168
+Buckinghamshire,E10000002,Upper tier local authority,05/04/2020,13,356
+Bromley,E09000006,Upper tier local authority,05/04/2020,26,587
+"Bristol, City of",E06000023,Upper tier local authority,05/04/2020,14,227
+Brighton and Hove,E06000043,Upper tier local authority,05/04/2020,11,160
+Brent,E09000005,Upper tier local authority,05/04/2020,37,844
+Bradford,E08000032,Upper tier local authority,05/04/2020,28,263
+Bracknell Forest,E06000036,Upper tier local authority,05/04/2020,4,80
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,05/04/2020,12,135
+Bolton,E08000001,Upper tier local authority,05/04/2020,15,217
+Blackpool,E06000009,Upper tier local authority,05/04/2020,3,92
+Blackburn with Darwen,E06000008,Upper tier local authority,05/04/2020,8,93
+Birmingham,E08000025,Upper tier local authority,05/04/2020,70,1505
+Bexley,E09000004,Upper tier local authority,05/04/2020,18,312
+Bedford,E06000055,Upper tier local authority,05/04/2020,5,143
+Bath and North East Somerset,E06000022,Upper tier local authority,05/04/2020,5,71
+Barnsley,E08000016,Upper tier local authority,05/04/2020,2,242
+Barnet,E09000003,Upper tier local authority,05/04/2020,40,768
+Barking and Dagenham,E09000002,Upper tier local authority,05/04/2020,16,244
+Yorkshire and The Humber,E12000003,Region,05/04/2020,219,3584
+West Midlands,E12000005,Region,05/04/2020,268,5678
+South West,E12000009,Region,05/04/2020,154,2264
+South East,E12000008,Region,05/04/2020,423,6688
+North West,E12000002,Region,05/04/2020,614,7130
+North East,E12000001,Region,05/04/2020,221,2429
+London,E12000007,Region,05/04/2020,603,14334
+East of England,E12000006,Region,05/04/2020,280,4200
+East Midlands,E12000004,Region,05/04/2020,148,3100
+England,E92000001,Nation,05/04/2020,3019,51122
+York,E06000014,Upper tier local authority,04/04/2020,4,74
+Worcestershire,E10000034,Upper tier local authority,04/04/2020,16,438
+Wolverhampton,E08000031,Upper tier local authority,04/04/2020,20,327
+Wokingham,E06000041,Upper tier local authority,04/04/2020,9,119
+Wirral,E08000015,Upper tier local authority,04/04/2020,42,295
+Windsor and Maidenhead,E06000040,Upper tier local authority,04/04/2020,9,116
+Wiltshire,E06000054,Upper tier local authority,04/04/2020,9,162
+Wigan,E08000010,Upper tier local authority,04/04/2020,14,198
+Westminster,E09000033,Upper tier local authority,04/04/2020,16,403
+West Sussex,E10000032,Upper tier local authority,04/04/2020,33,399
+West Berkshire,E06000037,Upper tier local authority,04/04/2020,13,114
+Warwickshire,E10000031,Upper tier local authority,04/04/2020,35,462
+Warrington,E06000007,Upper tier local authority,04/04/2020,16,161
+Wandsworth,E09000032,Upper tier local authority,04/04/2020,26,584
+Waltham Forest,E09000031,Upper tier local authority,04/04/2020,21,395
+Walsall,E08000030,Upper tier local authority,04/04/2020,26,410
+Wakefield,E08000036,Upper tier local authority,04/04/2020,11,189
+Trafford,E08000009,Upper tier local authority,04/04/2020,16,243
+Tower Hamlets,E09000030,Upper tier local authority,04/04/2020,20,365
+Torbay,E06000027,Upper tier local authority,04/04/2020,4,58
+Thurrock,E06000034,Upper tier local authority,04/04/2020,8,133
+Telford and Wrekin,E06000020,Upper tier local authority,04/04/2020,7,92
+Tameside,E08000008,Upper tier local authority,04/04/2020,15,177
+Swindon,E06000030,Upper tier local authority,04/04/2020,12,85
+Sutton,E09000029,Upper tier local authority,04/04/2020,6,303
+Surrey,E10000030,Upper tier local authority,04/04/2020,69,1053
+Sunderland,E08000024,Upper tier local authority,04/04/2020,46,337
+Suffolk,E10000029,Upper tier local authority,04/04/2020,19,289
+Stoke-on-Trent,E06000021,Upper tier local authority,04/04/2020,6,114
+Stockton-on-Tees,E06000004,Upper tier local authority,04/04/2020,12,125
+Stockport,E08000007,Upper tier local authority,04/04/2020,26,278
+Staffordshire,E10000028,Upper tier local authority,04/04/2020,42,620
+St. Helens,E08000013,Upper tier local authority,04/04/2020,30,251
+Southwark,E09000028,Upper tier local authority,04/04/2020,37,725
+Southend-on-Sea,E06000033,Upper tier local authority,04/04/2020,15,150
+Southampton,E06000045,Upper tier local authority,04/04/2020,12,178
+South Tyneside,E08000023,Upper tier local authority,04/04/2020,12,111
+South Gloucestershire,E06000025,Upper tier local authority,04/04/2020,9,136
+Somerset,E10000027,Upper tier local authority,04/04/2020,6,126
+Solihull,E08000029,Upper tier local authority,04/04/2020,23,251
+Slough,E06000039,Upper tier local authority,04/04/2020,14,167
+Shropshire,E06000051,Upper tier local authority,04/04/2020,8,173
+Sheffield,E08000019,Upper tier local authority,04/04/2020,42,967
+Sefton,E08000014,Upper tier local authority,04/04/2020,33,293
+Sandwell,E08000028,Upper tier local authority,04/04/2020,19,396
+Salford,E08000006,Upper tier local authority,04/04/2020,16,258
+Rotherham,E08000018,Upper tier local authority,04/04/2020,11,250
+Rochdale,E08000005,Upper tier local authority,04/04/2020,17,185
+Richmond upon Thames,E09000027,Upper tier local authority,04/04/2020,8,222
+Redcar and Cleveland,E06000003,Upper tier local authority,04/04/2020,13,111
+Redbridge,E09000026,Upper tier local authority,04/04/2020,24,335
+Reading,E06000038,Upper tier local authority,04/04/2020,14,126
+Portsmouth,E06000044,Upper tier local authority,04/04/2020,6,112
+Plymouth,E06000026,Upper tier local authority,04/04/2020,10,102
+Peterborough,E06000031,Upper tier local authority,04/04/2020,4,75
+Oxfordshire,E10000025,Upper tier local authority,04/04/2020,39,551
+Oldham,E08000004,Upper tier local authority,04/04/2020,13,229
+Nottinghamshire,E10000024,Upper tier local authority,04/04/2020,27,475
+Nottingham,E06000018,Upper tier local authority,04/04/2020,15,200
+Northumberland,E06000057,Upper tier local authority,04/04/2020,25,206
+Northamptonshire,E10000021,Upper tier local authority,04/04/2020,42,515
+North Yorkshire,E10000023,Upper tier local authority,04/04/2020,27,294
+North Tyneside,E08000022,Upper tier local authority,04/04/2020,24,180
+North Somerset,E06000024,Upper tier local authority,04/04/2020,6,83
+North Lincolnshire,E06000013,Upper tier local authority,04/04/2020,4,63
+North East Lincolnshire,E06000012,Upper tier local authority,04/04/2020,3,50
+Norfolk,E10000020,Upper tier local authority,04/04/2020,29,351
+Newham,E09000025,Upper tier local authority,04/04/2020,43,544
+Newcastle upon Tyne,E08000021,Upper tier local authority,04/04/2020,23,367
+Milton Keynes,E06000042,Upper tier local authority,04/04/2020,10,197
+Middlesbrough,E06000002,Upper tier local authority,04/04/2020,21,170
+Merton,E09000024,Upper tier local authority,04/04/2020,14,372
+Medway,E06000035,Upper tier local authority,04/04/2020,24,232
+Manchester,E08000003,Upper tier local authority,04/04/2020,40,360
+Luton,E06000032,Upper tier local authority,04/04/2020,14,223
+Liverpool,E08000012,Upper tier local authority,04/04/2020,47,555
+Lincolnshire,E10000019,Upper tier local authority,04/04/2020,19,301
+Lewisham,E09000023,Upper tier local authority,04/04/2020,28,520
+Leicestershire,E10000018,Upper tier local authority,04/04/2020,20,362
+Leicester,E06000016,Upper tier local authority,04/04/2020,15,231
+Leeds,E08000035,Upper tier local authority,04/04/2020,17,352
+Lancashire,E10000017,Upper tier local authority,04/04/2020,90,954
+Lambeth,E09000022,Upper tier local authority,04/04/2020,31,709
+Knowsley,E08000011,Upper tier local authority,04/04/2020,17,176
+Kirklees,E08000034,Upper tier local authority,04/04/2020,14,208
+Kingston upon Thames,E09000021,Upper tier local authority,04/04/2020,11,207
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,04/04/2020,8,52
+Kent,E10000016,Upper tier local authority,04/04/2020,67,989
+Kensington and Chelsea,E09000020,Upper tier local authority,04/04/2020,7,285
+Islington,E09000019,Upper tier local authority,04/04/2020,13,276
+Isle of Wight,E06000046,Upper tier local authority,04/04/2020,3,31
+Hounslow,E09000018,Upper tier local authority,04/04/2020,16,360
+Hillingdon,E09000017,Upper tier local authority,04/04/2020,17,375
+Hertfordshire,E10000015,Upper tier local authority,04/04/2020,53,1020
+"Herefordshire, County of",E06000019,Upper tier local authority,04/04/2020,4,68
+Havering,E09000016,Upper tier local authority,04/04/2020,21,288
+Hartlepool,E06000001,Upper tier local authority,04/04/2020,6,36
+Harrow,E09000015,Upper tier local authority,04/04/2020,24,496
+Haringey,E09000014,Upper tier local authority,04/04/2020,17,329
+Hampshire,E10000014,Upper tier local authority,04/04/2020,73,1098
+Hammersmith and Fulham,E09000013,Upper tier local authority,04/04/2020,16,295
+Halton,E06000006,Upper tier local authority,04/04/2020,12,109
+Hackney,E09000012,Upper tier local authority,04/04/2020,24,372
+Greenwich,E09000011,Upper tier local authority,04/04/2020,13,339
+Gloucestershire,E10000013,Upper tier local authority,04/04/2020,44,379
+Gateshead,E08000037,Upper tier local authority,04/04/2020,31,208
+Essex,E10000012,Upper tier local authority,04/04/2020,84,1084
+Enfield,E09000010,Upper tier local authority,04/04/2020,19,387
+East Sussex,E10000011,Upper tier local authority,04/04/2020,21,215
+East Riding of Yorkshire,E06000011,Upper tier local authority,04/04/2020,14,119
+Ealing,E09000009,Upper tier local authority,04/04/2020,26,544
+Dudley,E08000027,Upper tier local authority,04/04/2020,27,329
+Dorset,E06000059,Upper tier local authority,04/04/2020,7,129
+Doncaster,E08000017,Upper tier local authority,04/04/2020,7,178
+Devon,E10000008,Upper tier local authority,04/04/2020,33,251
+Derbyshire,E10000007,Upper tier local authority,04/04/2020,33,562
+Derby,E06000015,Upper tier local authority,04/04/2020,18,299
+Darlington,E06000005,Upper tier local authority,04/04/2020,10,53
+Cumbria,E10000006,Upper tier local authority,04/04/2020,52,795
+Croydon,E09000008,Upper tier local authority,04/04/2020,45,742
+Coventry,E08000026,Upper tier local authority,04/04/2020,18,295
+County Durham,E06000047,Upper tier local authority,04/04/2020,31,304
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,04/04/2020,15,197
+Cheshire West and Chester,E06000050,Upper tier local authority,04/04/2020,31,250
+Cheshire East,E06000049,Upper tier local authority,04/04/2020,19,220
+Central Bedfordshire,E06000056,Upper tier local authority,04/04/2020,12,185
+Camden,E09000007,Upper tier local authority,04/04/2020,22,330
+Cambridgeshire,E10000003,Upper tier local authority,04/04/2020,19,272
+Calderdale,E08000033,Upper tier local authority,04/04/2020,8,94
+Bury,E08000002,Upper tier local authority,04/04/2020,11,153
+Buckinghamshire,E10000002,Upper tier local authority,04/04/2020,21,343
+Bromley,E09000006,Upper tier local authority,04/04/2020,33,561
+"Bristol, City of",E06000023,Upper tier local authority,04/04/2020,10,213
+Brighton and Hove,E06000043,Upper tier local authority,04/04/2020,13,149
+Brent,E09000005,Upper tier local authority,04/04/2020,49,807
+Bradford,E08000032,Upper tier local authority,04/04/2020,21,235
+Bracknell Forest,E06000036,Upper tier local authority,04/04/2020,7,76
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,04/04/2020,8,123
+Bolton,E08000001,Upper tier local authority,04/04/2020,23,202
+Blackpool,E06000009,Upper tier local authority,04/04/2020,14,89
+Blackburn with Darwen,E06000008,Upper tier local authority,04/04/2020,10,85
+Birmingham,E08000025,Upper tier local authority,04/04/2020,82,1435
+Bexley,E09000004,Upper tier local authority,04/04/2020,22,294
+Bedford,E06000055,Upper tier local authority,04/04/2020,6,138
+Bath and North East Somerset,E06000022,Upper tier local authority,04/04/2020,1,66
+Barnsley,E08000016,Upper tier local authority,04/04/2020,12,240
+Barnet,E09000003,Upper tier local authority,04/04/2020,39,728
+Barking and Dagenham,E09000002,Upper tier local authority,04/04/2020,6,228
+Yorkshire and The Humber,E12000003,Region,04/04/2020,203,3365
+West Midlands,E12000005,Region,04/04/2020,333,5410
+South West,E12000009,Region,04/04/2020,174,2110
+South East,E12000008,Region,04/04/2020,457,6265
+North West,E12000002,Region,04/04/2020,604,6516
+North East,E12000001,Region,04/04/2020,254,2208
+London,E12000007,Region,04/04/2020,714,13731
+East of England,E12000006,Region,04/04/2020,263,3920
+East Midlands,E12000004,Region,04/04/2020,189,2952
+England,E92000001,Nation,04/04/2020,3325,48103
+York,E06000014,Upper tier local authority,03/04/2020,8,70
+Worcestershire,E10000034,Upper tier local authority,03/04/2020,36,422
+Wolverhampton,E08000031,Upper tier local authority,03/04/2020,11,307
+Wokingham,E06000041,Upper tier local authority,03/04/2020,8,110
+Wirral,E08000015,Upper tier local authority,03/04/2020,44,253
+Windsor and Maidenhead,E06000040,Upper tier local authority,03/04/2020,4,107
+Wiltshire,E06000054,Upper tier local authority,03/04/2020,15,153
+Wigan,E08000010,Upper tier local authority,03/04/2020,24,184
+Westminster,E09000033,Upper tier local authority,03/04/2020,27,387
+West Sussex,E10000032,Upper tier local authority,03/04/2020,52,366
+West Berkshire,E06000037,Upper tier local authority,03/04/2020,9,101
+Warwickshire,E10000031,Upper tier local authority,03/04/2020,40,427
+Warrington,E06000007,Upper tier local authority,03/04/2020,16,145
+Wandsworth,E09000032,Upper tier local authority,03/04/2020,27,558
+Waltham Forest,E09000031,Upper tier local authority,03/04/2020,30,374
+Walsall,E08000030,Upper tier local authority,03/04/2020,27,384
+Wakefield,E08000036,Upper tier local authority,03/04/2020,28,178
+Trafford,E08000009,Upper tier local authority,03/04/2020,26,227
+Tower Hamlets,E09000030,Upper tier local authority,03/04/2020,34,345
+Thurrock,E06000034,Upper tier local authority,03/04/2020,5,125
+Telford and Wrekin,E06000020,Upper tier local authority,03/04/2020,7,85
+Tameside,E08000008,Upper tier local authority,03/04/2020,13,162
+Swindon,E06000030,Upper tier local authority,03/04/2020,7,73
+Sutton,E09000029,Upper tier local authority,03/04/2020,20,297
+Surrey,E10000030,Upper tier local authority,03/04/2020,63,984
+Sunderland,E08000024,Upper tier local authority,03/04/2020,48,291
+Suffolk,E10000029,Upper tier local authority,03/04/2020,31,270
+Stoke-on-Trent,E06000021,Upper tier local authority,03/04/2020,11,108
+Stockton-on-Tees,E06000004,Upper tier local authority,03/04/2020,16,113
+Stockport,E08000007,Upper tier local authority,03/04/2020,31,252
+Staffordshire,E10000028,Upper tier local authority,03/04/2020,47,578
+St. Helens,E08000013,Upper tier local authority,03/04/2020,30,221
+Southwark,E09000028,Upper tier local authority,03/04/2020,47,688
+Southend-on-Sea,E06000033,Upper tier local authority,03/04/2020,18,135
+Southampton,E06000045,Upper tier local authority,03/04/2020,9,166
+South Tyneside,E08000023,Upper tier local authority,03/04/2020,17,99
+South Gloucestershire,E06000025,Upper tier local authority,03/04/2020,10,127
+Somerset,E10000027,Upper tier local authority,03/04/2020,15,120
+Solihull,E08000029,Upper tier local authority,03/04/2020,20,228
+Slough,E06000039,Upper tier local authority,03/04/2020,10,153
+Shropshire,E06000051,Upper tier local authority,03/04/2020,19,165
+Sheffield,E08000019,Upper tier local authority,03/04/2020,43,925
+Sefton,E08000014,Upper tier local authority,03/04/2020,44,260
+Sandwell,E08000028,Upper tier local authority,03/04/2020,31,377
+Salford,E08000006,Upper tier local authority,03/04/2020,12,242
+Rutland,E06000017,Upper tier local authority,03/04/2020,1,7
+Rotherham,E08000018,Upper tier local authority,03/04/2020,18,239
+Rochdale,E08000005,Upper tier local authority,03/04/2020,16,168
+Richmond upon Thames,E09000027,Upper tier local authority,03/04/2020,15,214
+Redcar and Cleveland,E06000003,Upper tier local authority,03/04/2020,17,98
+Redbridge,E09000026,Upper tier local authority,03/04/2020,20,311
+Reading,E06000038,Upper tier local authority,03/04/2020,8,112
+Portsmouth,E06000044,Upper tier local authority,03/04/2020,10,106
+Plymouth,E06000026,Upper tier local authority,03/04/2020,14,92
+Peterborough,E06000031,Upper tier local authority,03/04/2020,10,71
+Oxfordshire,E10000025,Upper tier local authority,03/04/2020,70,512
+Oldham,E08000004,Upper tier local authority,03/04/2020,20,216
+Nottinghamshire,E10000024,Upper tier local authority,03/04/2020,40,448
+Nottingham,E06000018,Upper tier local authority,03/04/2020,16,185
+Northumberland,E06000057,Upper tier local authority,03/04/2020,22,181
+Northamptonshire,E10000021,Upper tier local authority,03/04/2020,56,473
+North Yorkshire,E10000023,Upper tier local authority,03/04/2020,32,267
+North Tyneside,E08000022,Upper tier local authority,03/04/2020,13,156
+North Somerset,E06000024,Upper tier local authority,03/04/2020,8,77
+North Lincolnshire,E06000013,Upper tier local authority,03/04/2020,13,59
+North East Lincolnshire,E06000012,Upper tier local authority,03/04/2020,10,47
+Norfolk,E10000020,Upper tier local authority,03/04/2020,43,322
+Newham,E09000025,Upper tier local authority,03/04/2020,57,501
+Newcastle upon Tyne,E08000021,Upper tier local authority,03/04/2020,32,344
+Milton Keynes,E06000042,Upper tier local authority,03/04/2020,12,187
+Middlesbrough,E06000002,Upper tier local authority,03/04/2020,26,149
+Merton,E09000024,Upper tier local authority,03/04/2020,23,358
+Medway,E06000035,Upper tier local authority,03/04/2020,15,208
+Manchester,E08000003,Upper tier local authority,03/04/2020,30,320
+Luton,E06000032,Upper tier local authority,03/04/2020,18,209
+Liverpool,E08000012,Upper tier local authority,03/04/2020,59,508
+Lincolnshire,E10000019,Upper tier local authority,03/04/2020,38,282
+Lewisham,E09000023,Upper tier local authority,03/04/2020,46,492
+Leicestershire,E10000018,Upper tier local authority,03/04/2020,26,342
+Leicester,E06000016,Upper tier local authority,03/04/2020,25,216
+Leeds,E08000035,Upper tier local authority,03/04/2020,37,335
+Lancashire,E10000017,Upper tier local authority,03/04/2020,112,864
+Lambeth,E09000022,Upper tier local authority,03/04/2020,39,678
+Knowsley,E08000011,Upper tier local authority,03/04/2020,22,159
+Kirklees,E08000034,Upper tier local authority,03/04/2020,21,194
+Kingston upon Thames,E09000021,Upper tier local authority,03/04/2020,20,196
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,03/04/2020,10,44
+Kent,E10000016,Upper tier local authority,03/04/2020,92,922
+Kensington and Chelsea,E09000020,Upper tier local authority,03/04/2020,15,278
+Islington,E09000019,Upper tier local authority,03/04/2020,14,263
+Isle of Wight,E06000046,Upper tier local authority,03/04/2020,1,28
+Hounslow,E09000018,Upper tier local authority,03/04/2020,24,344
+Hillingdon,E09000017,Upper tier local authority,03/04/2020,44,358
+Hertfordshire,E10000015,Upper tier local authority,03/04/2020,77,967
+"Herefordshire, County of",E06000019,Upper tier local authority,03/04/2020,5,64
+Havering,E09000016,Upper tier local authority,03/04/2020,32,267
+Hartlepool,E06000001,Upper tier local authority,03/04/2020,5,30
+Harrow,E09000015,Upper tier local authority,03/04/2020,23,472
+Haringey,E09000014,Upper tier local authority,03/04/2020,26,312
+Hampshire,E10000014,Upper tier local authority,03/04/2020,89,1025
+Hammersmith and Fulham,E09000013,Upper tier local authority,03/04/2020,19,279
+Halton,E06000006,Upper tier local authority,03/04/2020,18,97
+Hackney,E09000012,Upper tier local authority,03/04/2020,25,348
+Greenwich,E09000011,Upper tier local authority,03/04/2020,23,326
+Gloucestershire,E10000013,Upper tier local authority,03/04/2020,30,335
+Gateshead,E08000037,Upper tier local authority,03/04/2020,19,177
+Essex,E10000012,Upper tier local authority,03/04/2020,93,1000
+Enfield,E09000010,Upper tier local authority,03/04/2020,26,368
+East Sussex,E10000011,Upper tier local authority,03/04/2020,12,194
+East Riding of Yorkshire,E06000011,Upper tier local authority,03/04/2020,12,105
+Ealing,E09000009,Upper tier local authority,03/04/2020,30,518
+Dudley,E08000027,Upper tier local authority,03/04/2020,16,302
+Dorset,E06000059,Upper tier local authority,03/04/2020,15,122
+Doncaster,E08000017,Upper tier local authority,03/04/2020,16,171
+Devon,E10000008,Upper tier local authority,03/04/2020,19,218
+Derbyshire,E10000007,Upper tier local authority,03/04/2020,34,529
+Derby,E06000015,Upper tier local authority,03/04/2020,22,281
+Darlington,E06000005,Upper tier local authority,03/04/2020,6,43
+Cumbria,E10000006,Upper tier local authority,03/04/2020,44,743
+Croydon,E09000008,Upper tier local authority,03/04/2020,48,697
+Coventry,E08000026,Upper tier local authority,03/04/2020,22,277
+County Durham,E06000047,Upper tier local authority,03/04/2020,37,273
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,03/04/2020,18,182
+Cheshire West and Chester,E06000050,Upper tier local authority,03/04/2020,36,219
+Cheshire East,E06000049,Upper tier local authority,03/04/2020,14,201
+Central Bedfordshire,E06000056,Upper tier local authority,03/04/2020,14,173
+Camden,E09000007,Upper tier local authority,03/04/2020,19,308
+Cambridgeshire,E10000003,Upper tier local authority,03/04/2020,17,253
+Calderdale,E08000033,Upper tier local authority,03/04/2020,12,86
+Bury,E08000002,Upper tier local authority,03/04/2020,18,142
+Buckinghamshire,E10000002,Upper tier local authority,03/04/2020,24,322
+Bromley,E09000006,Upper tier local authority,03/04/2020,30,528
+"Bristol, City of",E06000023,Upper tier local authority,03/04/2020,20,203
+Brighton and Hove,E06000043,Upper tier local authority,03/04/2020,11,136
+Brent,E09000005,Upper tier local authority,03/04/2020,56,758
+Bradford,E08000032,Upper tier local authority,03/04/2020,24,214
+Bracknell Forest,E06000036,Upper tier local authority,03/04/2020,10,69
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,03/04/2020,11,115
+Bolton,E08000001,Upper tier local authority,03/04/2020,35,179
+Blackpool,E06000009,Upper tier local authority,03/04/2020,8,75
+Blackburn with Darwen,E06000008,Upper tier local authority,03/04/2020,9,75
+Birmingham,E08000025,Upper tier local authority,03/04/2020,80,1353
+Bexley,E09000004,Upper tier local authority,03/04/2020,25,272
+Bedford,E06000055,Upper tier local authority,03/04/2020,19,132
+Bath and North East Somerset,E06000022,Upper tier local authority,03/04/2020,4,65
+Barnsley,E08000016,Upper tier local authority,03/04/2020,9,228
+Barnet,E09000003,Upper tier local authority,03/04/2020,37,689
+Barking and Dagenham,E09000002,Upper tier local authority,03/04/2020,15,222
+Yorkshire and The Humber,E12000003,Region,03/04/2020,293,3162
+West Midlands,E12000005,Region,03/04/2020,372,5077
+South West,E12000009,Region,03/04/2020,186,1936
+South East,E12000008,Region,03/04/2020,509,5808
+North West,E12000002,Region,03/04/2020,681,5912
+North East,E12000001,Region,03/04/2020,258,1954
+London,E12000007,Region,03/04/2020,936,13017
+East of England,E12000006,Region,03/04/2020,345,3657
+East Midlands,E12000004,Region,03/04/2020,258,2763
+England,E92000001,Nation,03/04/2020,4032,44778
+York,E06000014,Upper tier local authority,02/04/2020,11,62
+Worcestershire,E10000034,Upper tier local authority,02/04/2020,31,386
+Wolverhampton,E08000031,Upper tier local authority,02/04/2020,17,296
+Wokingham,E06000041,Upper tier local authority,02/04/2020,2,102
+Wirral,E08000015,Upper tier local authority,02/04/2020,52,209
+Windsor and Maidenhead,E06000040,Upper tier local authority,02/04/2020,4,103
+Wiltshire,E06000054,Upper tier local authority,02/04/2020,10,138
+Wigan,E08000010,Upper tier local authority,02/04/2020,24,160
+Westminster,E09000033,Upper tier local authority,02/04/2020,17,360
+West Sussex,E10000032,Upper tier local authority,02/04/2020,21,314
+West Berkshire,E06000037,Upper tier local authority,02/04/2020,5,92
+Warwickshire,E10000031,Upper tier local authority,02/04/2020,51,387
+Warrington,E06000007,Upper tier local authority,02/04/2020,25,129
+Wandsworth,E09000032,Upper tier local authority,02/04/2020,38,531
+Waltham Forest,E09000031,Upper tier local authority,02/04/2020,27,344
+Walsall,E08000030,Upper tier local authority,02/04/2020,48,357
+Wakefield,E08000036,Upper tier local authority,02/04/2020,17,150
+Trafford,E08000009,Upper tier local authority,02/04/2020,27,201
+Tower Hamlets,E09000030,Upper tier local authority,02/04/2020,26,311
+Torbay,E06000027,Upper tier local authority,02/04/2020,2,54
+Thurrock,E06000034,Upper tier local authority,02/04/2020,17,120
+Telford and Wrekin,E06000020,Upper tier local authority,02/04/2020,7,78
+Tameside,E08000008,Upper tier local authority,02/04/2020,18,149
+Swindon,E06000030,Upper tier local authority,02/04/2020,12,66
+Sutton,E09000029,Upper tier local authority,02/04/2020,29,277
+Surrey,E10000030,Upper tier local authority,02/04/2020,70,921
+Sunderland,E08000024,Upper tier local authority,02/04/2020,37,243
+Suffolk,E10000029,Upper tier local authority,02/04/2020,20,239
+Stoke-on-Trent,E06000021,Upper tier local authority,02/04/2020,9,97
+Stockton-on-Tees,E06000004,Upper tier local authority,02/04/2020,13,97
+Stockport,E08000007,Upper tier local authority,02/04/2020,28,221
+Staffordshire,E10000028,Upper tier local authority,02/04/2020,58,531
+St. Helens,E08000013,Upper tier local authority,02/04/2020,26,191
+Southwark,E09000028,Upper tier local authority,02/04/2020,40,641
+Southend-on-Sea,E06000033,Upper tier local authority,02/04/2020,14,117
+Southampton,E06000045,Upper tier local authority,02/04/2020,17,157
+South Tyneside,E08000023,Upper tier local authority,02/04/2020,13,82
+South Gloucestershire,E06000025,Upper tier local authority,02/04/2020,9,117
+Somerset,E10000027,Upper tier local authority,02/04/2020,19,105
+Solihull,E08000029,Upper tier local authority,02/04/2020,25,208
+Slough,E06000039,Upper tier local authority,02/04/2020,3,143
+Shropshire,E06000051,Upper tier local authority,02/04/2020,8,146
+Sheffield,E08000019,Upper tier local authority,02/04/2020,53,882
+Sefton,E08000014,Upper tier local authority,02/04/2020,32,216
+Sandwell,E08000028,Upper tier local authority,02/04/2020,37,346
+Salford,E08000006,Upper tier local authority,02/04/2020,21,230
+Rotherham,E08000018,Upper tier local authority,02/04/2020,15,221
+Rochdale,E08000005,Upper tier local authority,02/04/2020,9,152
+Richmond upon Thames,E09000027,Upper tier local authority,02/04/2020,8,199
+Redcar and Cleveland,E06000003,Upper tier local authority,02/04/2020,7,81
+Redbridge,E09000026,Upper tier local authority,02/04/2020,28,291
+Reading,E06000038,Upper tier local authority,02/04/2020,8,104
+Portsmouth,E06000044,Upper tier local authority,02/04/2020,5,96
+Plymouth,E06000026,Upper tier local authority,02/04/2020,12,78
+Peterborough,E06000031,Upper tier local authority,02/04/2020,5,61
+Oxfordshire,E10000025,Upper tier local authority,02/04/2020,70,442
+Oldham,E08000004,Upper tier local authority,02/04/2020,23,196
+Nottinghamshire,E10000024,Upper tier local authority,02/04/2020,40,408
+Nottingham,E06000018,Upper tier local authority,02/04/2020,20,169
+Northumberland,E06000057,Upper tier local authority,02/04/2020,24,159
+Northamptonshire,E10000021,Upper tier local authority,02/04/2020,51,417
+North Yorkshire,E10000023,Upper tier local authority,02/04/2020,19,235
+North Tyneside,E08000022,Upper tier local authority,02/04/2020,14,143
+North Somerset,E06000024,Upper tier local authority,02/04/2020,6,69
+North Lincolnshire,E06000013,Upper tier local authority,02/04/2020,4,46
+North East Lincolnshire,E06000012,Upper tier local authority,02/04/2020,1,37
+Norfolk,E10000020,Upper tier local authority,02/04/2020,27,279
+Newham,E09000025,Upper tier local authority,02/04/2020,34,444
+Newcastle upon Tyne,E08000021,Upper tier local authority,02/04/2020,31,312
+Milton Keynes,E06000042,Upper tier local authority,02/04/2020,12,175
+Middlesbrough,E06000002,Upper tier local authority,02/04/2020,13,123
+Merton,E09000024,Upper tier local authority,02/04/2020,33,335
+Medway,E06000035,Upper tier local authority,02/04/2020,24,193
+Manchester,E08000003,Upper tier local authority,02/04/2020,34,290
+Luton,E06000032,Upper tier local authority,02/04/2020,23,191
+Liverpool,E08000012,Upper tier local authority,02/04/2020,56,449
+Lincolnshire,E10000019,Upper tier local authority,02/04/2020,14,244
+Lewisham,E09000023,Upper tier local authority,02/04/2020,53,446
+Leicestershire,E10000018,Upper tier local authority,02/04/2020,19,316
+Leicester,E06000016,Upper tier local authority,02/04/2020,24,191
+Leeds,E08000035,Upper tier local authority,02/04/2020,30,298
+Lancashire,E10000017,Upper tier local authority,02/04/2020,94,752
+Lambeth,E09000022,Upper tier local authority,02/04/2020,41,639
+Knowsley,E08000011,Upper tier local authority,02/04/2020,22,137
+Kirklees,E08000034,Upper tier local authority,02/04/2020,22,173
+Kingston upon Thames,E09000021,Upper tier local authority,02/04/2020,16,176
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,02/04/2020,8,34
+Kent,E10000016,Upper tier local authority,02/04/2020,82,830
+Kensington and Chelsea,E09000020,Upper tier local authority,02/04/2020,20,263
+Islington,E09000019,Upper tier local authority,02/04/2020,22,249
+Isle of Wight,E06000046,Upper tier local authority,02/04/2020,1,27
+Hounslow,E09000018,Upper tier local authority,02/04/2020,33,320
+Hillingdon,E09000017,Upper tier local authority,02/04/2020,17,314
+Hertfordshire,E10000015,Upper tier local authority,02/04/2020,102,890
+"Herefordshire, County of",E06000019,Upper tier local authority,02/04/2020,4,59
+Havering,E09000016,Upper tier local authority,02/04/2020,30,235
+Hartlepool,E06000001,Upper tier local authority,02/04/2020,2,25
+Harrow,E09000015,Upper tier local authority,02/04/2020,31,449
+Haringey,E09000014,Upper tier local authority,02/04/2020,27,286
+Hampshire,E10000014,Upper tier local authority,02/04/2020,87,936
+Hammersmith and Fulham,E09000013,Upper tier local authority,02/04/2020,22,260
+Halton,E06000006,Upper tier local authority,02/04/2020,14,79
+Hackney,E09000012,Upper tier local authority,02/04/2020,38,323
+Greenwich,E09000011,Upper tier local authority,02/04/2020,23,303
+Gloucestershire,E10000013,Upper tier local authority,02/04/2020,31,305
+Gateshead,E08000037,Upper tier local authority,02/04/2020,23,158
+Essex,E10000012,Upper tier local authority,02/04/2020,100,907
+Enfield,E09000010,Upper tier local authority,02/04/2020,26,342
+East Sussex,E10000011,Upper tier local authority,02/04/2020,17,182
+East Riding of Yorkshire,E06000011,Upper tier local authority,02/04/2020,7,93
+Ealing,E09000009,Upper tier local authority,02/04/2020,41,488
+Dudley,E08000027,Upper tier local authority,02/04/2020,30,286
+Dorset,E06000059,Upper tier local authority,02/04/2020,10,107
+Doncaster,E08000017,Upper tier local authority,02/04/2020,11,155
+Devon,E10000008,Upper tier local authority,02/04/2020,23,199
+Derbyshire,E10000007,Upper tier local authority,02/04/2020,26,495
+Derby,E06000015,Upper tier local authority,02/04/2020,19,259
+Darlington,E06000005,Upper tier local authority,02/04/2020,5,37
+Cumbria,E10000006,Upper tier local authority,02/04/2020,67,699
+Croydon,E09000008,Upper tier local authority,02/04/2020,80,649
+Coventry,E08000026,Upper tier local authority,02/04/2020,20,255
+County Durham,E06000047,Upper tier local authority,02/04/2020,36,236
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,02/04/2020,17,164
+Cheshire West and Chester,E06000050,Upper tier local authority,02/04/2020,26,183
+Cheshire East,E06000049,Upper tier local authority,02/04/2020,28,187
+Central Bedfordshire,E06000056,Upper tier local authority,02/04/2020,23,159
+Camden,E09000007,Upper tier local authority,02/04/2020,25,289
+Cambridgeshire,E10000003,Upper tier local authority,02/04/2020,22,236
+Calderdale,E08000033,Upper tier local authority,02/04/2020,11,74
+Bury,E08000002,Upper tier local authority,02/04/2020,8,124
+Buckinghamshire,E10000002,Upper tier local authority,02/04/2020,32,298
+Bromley,E09000006,Upper tier local authority,02/04/2020,37,498
+"Bristol, City of",E06000023,Upper tier local authority,02/04/2020,15,183
+Brighton and Hove,E06000043,Upper tier local authority,02/04/2020,12,125
+Brent,E09000005,Upper tier local authority,02/04/2020,58,702
+Bradford,E08000032,Upper tier local authority,02/04/2020,19,190
+Bracknell Forest,E06000036,Upper tier local authority,02/04/2020,3,59
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,02/04/2020,12,104
+Bolton,E08000001,Upper tier local authority,02/04/2020,17,144
+Blackpool,E06000009,Upper tier local authority,02/04/2020,18,67
+Blackburn with Darwen,E06000008,Upper tier local authority,02/04/2020,12,66
+Birmingham,E08000025,Upper tier local authority,02/04/2020,102,1273
+Bexley,E09000004,Upper tier local authority,02/04/2020,17,247
+Bedford,E06000055,Upper tier local authority,02/04/2020,12,113
+Bath and North East Somerset,E06000022,Upper tier local authority,02/04/2020,4,61
+Barnsley,E08000016,Upper tier local authority,02/04/2020,14,219
+Barnet,E09000003,Upper tier local authority,02/04/2020,65,652
+Barking and Dagenham,E09000002,Upper tier local authority,02/04/2020,22,207
+Yorkshire and The Humber,E12000003,Region,02/04/2020,242,2869
+West Midlands,E12000005,Region,02/04/2020,447,4705
+South West,E12000009,Region,02/04/2020,182,1750
+South East,E12000008,Region,02/04/2020,475,5299
+North West,E12000002,Region,02/04/2020,681,5231
+North East,E12000001,Region,02/04/2020,218,1696
+London,E12000007,Region,02/04/2020,1024,12081
+East of England,E12000006,Region,02/04/2020,365,3312
+East Midlands,E12000004,Region,02/04/2020,213,2505
+England,E92000001,Nation,02/04/2020,4008,40746
+York,E06000014,Upper tier local authority,01/04/2020,12,51
+Worcestershire,E10000034,Upper tier local authority,01/04/2020,34,355
+Wolverhampton,E08000031,Upper tier local authority,01/04/2020,19,279
+Wokingham,E06000041,Upper tier local authority,01/04/2020,14,100
+Wirral,E08000015,Upper tier local authority,01/04/2020,18,157
+Windsor and Maidenhead,E06000040,Upper tier local authority,01/04/2020,9,99
+Wiltshire,E06000054,Upper tier local authority,01/04/2020,10,128
+Wigan,E08000010,Upper tier local authority,01/04/2020,13,136
+Westminster,E09000033,Upper tier local authority,01/04/2020,18,343
+West Sussex,E10000032,Upper tier local authority,01/04/2020,25,293
+West Berkshire,E06000037,Upper tier local authority,01/04/2020,14,87
+Warwickshire,E10000031,Upper tier local authority,01/04/2020,29,336
+Warrington,E06000007,Upper tier local authority,01/04/2020,17,104
+Wandsworth,E09000032,Upper tier local authority,01/04/2020,37,493
+Waltham Forest,E09000031,Upper tier local authority,01/04/2020,25,317
+Walsall,E08000030,Upper tier local authority,01/04/2020,36,309
+Wakefield,E08000036,Upper tier local authority,01/04/2020,17,133
+Trafford,E08000009,Upper tier local authority,01/04/2020,28,174
+Tower Hamlets,E09000030,Upper tier local authority,01/04/2020,24,285
+Torbay,E06000027,Upper tier local authority,01/04/2020,3,52
+Thurrock,E06000034,Upper tier local authority,01/04/2020,10,103
+Telford and Wrekin,E06000020,Upper tier local authority,01/04/2020,4,71
+Tameside,E08000008,Upper tier local authority,01/04/2020,15,131
+Swindon,E06000030,Upper tier local authority,01/04/2020,8,54
+Sutton,E09000029,Upper tier local authority,01/04/2020,37,248
+Surrey,E10000030,Upper tier local authority,01/04/2020,92,851
+Sunderland,E08000024,Upper tier local authority,01/04/2020,43,206
+Suffolk,E10000029,Upper tier local authority,01/04/2020,29,219
+Stoke-on-Trent,E06000021,Upper tier local authority,01/04/2020,17,88
+Stockton-on-Tees,E06000004,Upper tier local authority,01/04/2020,12,84
+Stockport,E08000007,Upper tier local authority,01/04/2020,33,193
+Staffordshire,E10000028,Upper tier local authority,01/04/2020,54,473
+St. Helens,E08000013,Upper tier local authority,01/04/2020,28,165
+Southwark,E09000028,Upper tier local authority,01/04/2020,56,601
+Southend-on-Sea,E06000033,Upper tier local authority,01/04/2020,16,103
+Southampton,E06000045,Upper tier local authority,01/04/2020,14,140
+South Tyneside,E08000023,Upper tier local authority,01/04/2020,9,69
+South Gloucestershire,E06000025,Upper tier local authority,01/04/2020,6,108
+Somerset,E10000027,Upper tier local authority,01/04/2020,8,86
+Solihull,E08000029,Upper tier local authority,01/04/2020,15,183
+Slough,E06000039,Upper tier local authority,01/04/2020,11,140
+Shropshire,E06000051,Upper tier local authority,01/04/2020,13,138
+Sheffield,E08000019,Upper tier local authority,01/04/2020,63,829
+Sefton,E08000014,Upper tier local authority,01/04/2020,28,184
+Sandwell,E08000028,Upper tier local authority,01/04/2020,30,309
+Salford,E08000006,Upper tier local authority,01/04/2020,18,209
+Rotherham,E08000018,Upper tier local authority,01/04/2020,22,206
+Rochdale,E08000005,Upper tier local authority,01/04/2020,16,143
+Richmond upon Thames,E09000027,Upper tier local authority,01/04/2020,15,191
+Redcar and Cleveland,E06000003,Upper tier local authority,01/04/2020,11,74
+Redbridge,E09000026,Upper tier local authority,01/04/2020,22,263
+Reading,E06000038,Upper tier local authority,01/04/2020,14,96
+Portsmouth,E06000044,Upper tier local authority,01/04/2020,6,91
+Plymouth,E06000026,Upper tier local authority,01/04/2020,8,66
+Peterborough,E06000031,Upper tier local authority,01/04/2020,6,56
+Oxfordshire,E10000025,Upper tier local authority,01/04/2020,42,372
+Oldham,E08000004,Upper tier local authority,01/04/2020,22,173
+Nottinghamshire,E10000024,Upper tier local authority,01/04/2020,34,368
+Nottingham,E06000018,Upper tier local authority,01/04/2020,16,149
+Northumberland,E06000057,Upper tier local authority,01/04/2020,40,135
+Northamptonshire,E10000021,Upper tier local authority,01/04/2020,54,366
+North Yorkshire,E10000023,Upper tier local authority,01/04/2020,32,216
+North Tyneside,E08000022,Upper tier local authority,01/04/2020,35,129
+North Somerset,E06000024,Upper tier local authority,01/04/2020,8,63
+North Lincolnshire,E06000013,Upper tier local authority,01/04/2020,8,42
+North East Lincolnshire,E06000012,Upper tier local authority,01/04/2020,5,36
+Norfolk,E10000020,Upper tier local authority,01/04/2020,22,252
+Newham,E09000025,Upper tier local authority,01/04/2020,40,410
+Newcastle upon Tyne,E08000021,Upper tier local authority,01/04/2020,41,281
+Milton Keynes,E06000042,Upper tier local authority,01/04/2020,14,163
+Middlesbrough,E06000002,Upper tier local authority,01/04/2020,23,110
+Merton,E09000024,Upper tier local authority,01/04/2020,27,302
+Medway,E06000035,Upper tier local authority,01/04/2020,33,169
+Manchester,E08000003,Upper tier local authority,01/04/2020,28,256
+Luton,E06000032,Upper tier local authority,01/04/2020,17,168
+Liverpool,E08000012,Upper tier local authority,01/04/2020,46,393
+Lincolnshire,E10000019,Upper tier local authority,01/04/2020,33,230
+Lewisham,E09000023,Upper tier local authority,01/04/2020,35,393
+Leicestershire,E10000018,Upper tier local authority,01/04/2020,45,297
+Leicester,E06000016,Upper tier local authority,01/04/2020,33,167
+Leeds,E08000035,Upper tier local authority,01/04/2020,31,268
+Lancashire,E10000017,Upper tier local authority,01/04/2020,91,658
+Lambeth,E09000022,Upper tier local authority,01/04/2020,49,598
+Knowsley,E08000011,Upper tier local authority,01/04/2020,18,115
+Kirklees,E08000034,Upper tier local authority,01/04/2020,24,151
+Kingston upon Thames,E09000021,Upper tier local authority,01/04/2020,9,160
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,01/04/2020,5,26
+Kent,E10000016,Upper tier local authority,01/04/2020,111,748
+Kensington and Chelsea,E09000020,Upper tier local authority,01/04/2020,16,243
+Islington,E09000019,Upper tier local authority,01/04/2020,17,227
+Isle of Wight,E06000046,Upper tier local authority,01/04/2020,7,26
+Hounslow,E09000018,Upper tier local authority,01/04/2020,32,287
+Hillingdon,E09000017,Upper tier local authority,01/04/2020,22,297
+Hertfordshire,E10000015,Upper tier local authority,01/04/2020,83,788
+"Herefordshire, County of",E06000019,Upper tier local authority,01/04/2020,6,55
+Havering,E09000016,Upper tier local authority,01/04/2020,29,205
+Hartlepool,E06000001,Upper tier local authority,01/04/2020,3,23
+Harrow,E09000015,Upper tier local authority,01/04/2020,23,418
+Haringey,E09000014,Upper tier local authority,01/04/2020,22,259
+Hampshire,E10000014,Upper tier local authority,01/04/2020,71,849
+Hammersmith and Fulham,E09000013,Upper tier local authority,01/04/2020,26,238
+Halton,E06000006,Upper tier local authority,01/04/2020,8,65
+Hackney,E09000012,Upper tier local authority,01/04/2020,32,285
+Greenwich,E09000011,Upper tier local authority,01/04/2020,29,280
+Gloucestershire,E10000013,Upper tier local authority,01/04/2020,34,274
+Gateshead,E08000037,Upper tier local authority,01/04/2020,33,135
+Essex,E10000012,Upper tier local authority,01/04/2020,109,807
+Enfield,E09000010,Upper tier local authority,01/04/2020,27,316
+East Sussex,E10000011,Upper tier local authority,01/04/2020,21,165
+East Riding of Yorkshire,E06000011,Upper tier local authority,01/04/2020,9,86
+Ealing,E09000009,Upper tier local authority,01/04/2020,26,447
+Dudley,E08000027,Upper tier local authority,01/04/2020,18,256
+Dorset,E06000059,Upper tier local authority,01/04/2020,15,97
+Doncaster,E08000017,Upper tier local authority,01/04/2020,17,144
+Devon,E10000008,Upper tier local authority,01/04/2020,25,176
+Derbyshire,E10000007,Upper tier local authority,01/04/2020,51,469
+Derby,E06000015,Upper tier local authority,01/04/2020,30,240
+Darlington,E06000005,Upper tier local authority,01/04/2020,4,32
+Cumbria,E10000006,Upper tier local authority,01/04/2020,74,632
+Croydon,E09000008,Upper tier local authority,01/04/2020,55,569
+Coventry,E08000026,Upper tier local authority,01/04/2020,28,235
+County Durham,E06000047,Upper tier local authority,01/04/2020,52,200
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,01/04/2020,21,147
+Cheshire West and Chester,E06000050,Upper tier local authority,01/04/2020,29,157
+Cheshire East,E06000049,Upper tier local authority,01/04/2020,31,159
+Central Bedfordshire,E06000056,Upper tier local authority,01/04/2020,14,136
+Camden,E09000007,Upper tier local authority,01/04/2020,19,264
+Cambridgeshire,E10000003,Upper tier local authority,01/04/2020,13,214
+Calderdale,E08000033,Upper tier local authority,01/04/2020,6,63
+Bury,E08000002,Upper tier local authority,01/04/2020,16,116
+Buckinghamshire,E10000002,Upper tier local authority,01/04/2020,19,266
+Bromley,E09000006,Upper tier local authority,01/04/2020,49,461
+"Bristol, City of",E06000023,Upper tier local authority,01/04/2020,17,168
+Brighton and Hove,E06000043,Upper tier local authority,01/04/2020,19,113
+Brent,E09000005,Upper tier local authority,01/04/2020,55,644
+Bradford,E08000032,Upper tier local authority,01/04/2020,21,171
+Bracknell Forest,E06000036,Upper tier local authority,01/04/2020,10,56
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,01/04/2020,15,92
+Bolton,E08000001,Upper tier local authority,01/04/2020,25,127
+Blackpool,E06000009,Upper tier local authority,01/04/2020,5,49
+Blackburn with Darwen,E06000008,Upper tier local authority,01/04/2020,8,54
+Birmingham,E08000025,Upper tier local authority,01/04/2020,108,1171
+Bexley,E09000004,Upper tier local authority,01/04/2020,29,230
+Bedford,E06000055,Upper tier local authority,01/04/2020,11,101
+Bath and North East Somerset,E06000022,Upper tier local authority,01/04/2020,5,57
+Barnsley,E08000016,Upper tier local authority,01/04/2020,26,205
+Barnet,E09000003,Upper tier local authority,01/04/2020,37,587
+Barking and Dagenham,E09000002,Upper tier local authority,01/04/2020,21,185
+Yorkshire and The Humber,E12000003,Region,01/04/2020,298,2627
+West Midlands,E12000005,Region,01/04/2020,411,4258
+South West,E12000009,Region,01/04/2020,183,1568
+South East,E12000008,Region,01/04/2020,546,4824
+North West,E12000002,Region,01/04/2020,615,4550
+North East,E12000001,Region,01/04/2020,306,1478
+London,E12000007,Region,01/04/2020,960,11057
+East of England,E12000006,Region,01/04/2020,330,2947
+East Midlands,E12000004,Region,01/04/2020,296,2292
+England,E92000001,Nation,01/04/2020,4073,36738
+York,E06000014,Upper tier local authority,31/03/2020,5,39
+Worcestershire,E10000034,Upper tier local authority,31/03/2020,37,321
+Wolverhampton,E08000031,Upper tier local authority,31/03/2020,23,260
+Wokingham,E06000041,Upper tier local authority,31/03/2020,8,86
+Wirral,E08000015,Upper tier local authority,31/03/2020,16,139
+Windsor and Maidenhead,E06000040,Upper tier local authority,31/03/2020,7,90
+Wiltshire,E06000054,Upper tier local authority,31/03/2020,10,118
+Wigan,E08000010,Upper tier local authority,31/03/2020,24,123
+Westminster,E09000033,Upper tier local authority,31/03/2020,12,325
+West Sussex,E10000032,Upper tier local authority,31/03/2020,32,268
+West Berkshire,E06000037,Upper tier local authority,31/03/2020,4,73
+Warwickshire,E10000031,Upper tier local authority,31/03/2020,20,307
+Warrington,E06000007,Upper tier local authority,31/03/2020,19,87
+Wandsworth,E09000032,Upper tier local authority,31/03/2020,41,456
+Waltham Forest,E09000031,Upper tier local authority,31/03/2020,36,292
+Walsall,E08000030,Upper tier local authority,31/03/2020,30,273
+Wakefield,E08000036,Upper tier local authority,31/03/2020,16,116
+Trafford,E08000009,Upper tier local authority,31/03/2020,13,146
+Tower Hamlets,E09000030,Upper tier local authority,31/03/2020,25,261
+Torbay,E06000027,Upper tier local authority,31/03/2020,7,49
+Thurrock,E06000034,Upper tier local authority,31/03/2020,10,93
+Telford and Wrekin,E06000020,Upper tier local authority,31/03/2020,6,67
+Tameside,E08000008,Upper tier local authority,31/03/2020,18,116
+Swindon,E06000030,Upper tier local authority,31/03/2020,4,46
+Sutton,E09000029,Upper tier local authority,31/03/2020,19,211
+Surrey,E10000030,Upper tier local authority,31/03/2020,64,759
+Sunderland,E08000024,Upper tier local authority,31/03/2020,46,163
+Suffolk,E10000029,Upper tier local authority,31/03/2020,26,190
+Stoke-on-Trent,E06000021,Upper tier local authority,31/03/2020,3,71
+Stockton-on-Tees,E06000004,Upper tier local authority,31/03/2020,8,72
+Stockport,E08000007,Upper tier local authority,31/03/2020,18,160
+Staffordshire,E10000028,Upper tier local authority,31/03/2020,41,419
+St. Helens,E08000013,Upper tier local authority,31/03/2020,18,137
+Southwark,E09000028,Upper tier local authority,31/03/2020,34,545
+Southend-on-Sea,E06000033,Upper tier local authority,31/03/2020,15,87
+Southampton,E06000045,Upper tier local authority,31/03/2020,20,126
+South Tyneside,E08000023,Upper tier local authority,31/03/2020,13,60
+South Gloucestershire,E06000025,Upper tier local authority,31/03/2020,11,102
+Somerset,E10000027,Upper tier local authority,31/03/2020,8,78
+Solihull,E08000029,Upper tier local authority,31/03/2020,17,168
+Slough,E06000039,Upper tier local authority,31/03/2020,6,129
+Shropshire,E06000051,Upper tier local authority,31/03/2020,9,125
+Sheffield,E08000019,Upper tier local authority,31/03/2020,110,766
+Sefton,E08000014,Upper tier local authority,31/03/2020,33,156
+Sandwell,E08000028,Upper tier local authority,31/03/2020,35,279
+Salford,E08000006,Upper tier local authority,31/03/2020,29,191
+Rutland,E06000017,Upper tier local authority,31/03/2020,2,6
+Rotherham,E08000018,Upper tier local authority,31/03/2020,29,184
+Rochdale,E08000005,Upper tier local authority,31/03/2020,19,127
+Richmond upon Thames,E09000027,Upper tier local authority,31/03/2020,16,176
+Redcar and Cleveland,E06000003,Upper tier local authority,31/03/2020,8,63
+Redbridge,E09000026,Upper tier local authority,31/03/2020,26,241
+Reading,E06000038,Upper tier local authority,31/03/2020,5,82
+Portsmouth,E06000044,Upper tier local authority,31/03/2020,1,85
+Plymouth,E06000026,Upper tier local authority,31/03/2020,2,58
+Peterborough,E06000031,Upper tier local authority,31/03/2020,4,50
+Oxfordshire,E10000025,Upper tier local authority,31/03/2020,51,330
+Oldham,E08000004,Upper tier local authority,31/03/2020,13,151
+Nottinghamshire,E10000024,Upper tier local authority,31/03/2020,40,334
+Nottingham,E06000018,Upper tier local authority,31/03/2020,14,133
+Northumberland,E06000057,Upper tier local authority,31/03/2020,17,95
+Northamptonshire,E10000021,Upper tier local authority,31/03/2020,48,312
+North Yorkshire,E10000023,Upper tier local authority,31/03/2020,19,184
+North Tyneside,E08000022,Upper tier local authority,31/03/2020,19,94
+North Somerset,E06000024,Upper tier local authority,31/03/2020,4,55
+North Lincolnshire,E06000013,Upper tier local authority,31/03/2020,8,34
+North East Lincolnshire,E06000012,Upper tier local authority,31/03/2020,2,31
+Norfolk,E10000020,Upper tier local authority,31/03/2020,25,230
+Newham,E09000025,Upper tier local authority,31/03/2020,44,370
+Newcastle upon Tyne,E08000021,Upper tier local authority,31/03/2020,34,240
+Milton Keynes,E06000042,Upper tier local authority,31/03/2020,17,149
+Middlesbrough,E06000002,Upper tier local authority,31/03/2020,15,87
+Merton,E09000024,Upper tier local authority,31/03/2020,28,275
+Medway,E06000035,Upper tier local authority,31/03/2020,17,136
+Manchester,E08000003,Upper tier local authority,31/03/2020,33,228
+Luton,E06000032,Upper tier local authority,31/03/2020,26,151
+Liverpool,E08000012,Upper tier local authority,31/03/2020,41,347
+Lincolnshire,E10000019,Upper tier local authority,31/03/2020,26,197
+Lewisham,E09000023,Upper tier local authority,31/03/2020,38,358
+Leicestershire,E10000018,Upper tier local authority,31/03/2020,44,252
+Leicester,E06000016,Upper tier local authority,31/03/2020,27,134
+Leeds,E08000035,Upper tier local authority,31/03/2020,24,237
+Lancashire,E10000017,Upper tier local authority,31/03/2020,87,567
+Lambeth,E09000022,Upper tier local authority,31/03/2020,40,549
+Knowsley,E08000011,Upper tier local authority,31/03/2020,13,97
+Kirklees,E08000034,Upper tier local authority,31/03/2020,19,127
+Kingston upon Thames,E09000021,Upper tier local authority,31/03/2020,12,151
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,31/03/2020,2,21
+Kent,E10000016,Upper tier local authority,31/03/2020,93,637
+Kensington and Chelsea,E09000020,Upper tier local authority,31/03/2020,18,227
+Islington,E09000019,Upper tier local authority,31/03/2020,16,210
+Isle of Wight,E06000046,Upper tier local authority,31/03/2020,1,19
+Hounslow,E09000018,Upper tier local authority,31/03/2020,22,255
+Hillingdon,E09000017,Upper tier local authority,31/03/2020,33,275
+Hertfordshire,E10000015,Upper tier local authority,31/03/2020,77,705
+"Herefordshire, County of",E06000019,Upper tier local authority,31/03/2020,9,49
+Havering,E09000016,Upper tier local authority,31/03/2020,26,176
+Hartlepool,E06000001,Upper tier local authority,31/03/2020,3,20
+Harrow,E09000015,Upper tier local authority,31/03/2020,27,395
+Haringey,E09000014,Upper tier local authority,31/03/2020,18,237
+Hampshire,E10000014,Upper tier local authority,31/03/2020,78,778
+Hammersmith and Fulham,E09000013,Upper tier local authority,31/03/2020,17,212
+Halton,E06000006,Upper tier local authority,31/03/2020,9,57
+Hackney,E09000012,Upper tier local authority,31/03/2020,31,253
+Greenwich,E09000011,Upper tier local authority,31/03/2020,30,251
+Gloucestershire,E10000013,Upper tier local authority,31/03/2020,30,240
+Gateshead,E08000037,Upper tier local authority,31/03/2020,19,102
+Essex,E10000012,Upper tier local authority,31/03/2020,87,698
+Enfield,E09000010,Upper tier local authority,31/03/2020,26,289
+East Sussex,E10000011,Upper tier local authority,31/03/2020,27,144
+East Riding of Yorkshire,E06000011,Upper tier local authority,31/03/2020,15,77
+Ealing,E09000009,Upper tier local authority,31/03/2020,39,421
+Dudley,E08000027,Upper tier local authority,31/03/2020,22,238
+Dorset,E06000059,Upper tier local authority,31/03/2020,5,82
+Doncaster,E08000017,Upper tier local authority,31/03/2020,14,127
+Devon,E10000008,Upper tier local authority,31/03/2020,15,151
+Derbyshire,E10000007,Upper tier local authority,31/03/2020,51,418
+Derby,E06000015,Upper tier local authority,31/03/2020,24,210
+Darlington,E06000005,Upper tier local authority,31/03/2020,2,28
+Cumbria,E10000006,Upper tier local authority,31/03/2020,68,558
+Croydon,E09000008,Upper tier local authority,31/03/2020,47,514
+Coventry,E08000026,Upper tier local authority,31/03/2020,29,207
+County Durham,E06000047,Upper tier local authority,31/03/2020,22,148
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,31/03/2020,20,126
+City of London,E09000001,Upper tier local authority,31/03/2020,1,11
+Cheshire West and Chester,E06000050,Upper tier local authority,31/03/2020,18,128
+Cheshire East,E06000049,Upper tier local authority,31/03/2020,18,128
+Central Bedfordshire,E06000056,Upper tier local authority,31/03/2020,19,122
+Camden,E09000007,Upper tier local authority,31/03/2020,18,245
+Cambridgeshire,E10000003,Upper tier local authority,31/03/2020,20,201
+Calderdale,E08000033,Upper tier local authority,31/03/2020,5,57
+Bury,E08000002,Upper tier local authority,31/03/2020,6,100
+Buckinghamshire,E10000002,Upper tier local authority,31/03/2020,23,247
+Bromley,E09000006,Upper tier local authority,31/03/2020,44,412
+"Bristol, City of",E06000023,Upper tier local authority,31/03/2020,18,151
+Brighton and Hove,E06000043,Upper tier local authority,31/03/2020,6,94
+Brent,E09000005,Upper tier local authority,31/03/2020,45,589
+Bradford,E08000032,Upper tier local authority,31/03/2020,20,150
+Bracknell Forest,E06000036,Upper tier local authority,31/03/2020,9,46
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,31/03/2020,6,77
+Bolton,E08000001,Upper tier local authority,31/03/2020,22,102
+Blackpool,E06000009,Upper tier local authority,31/03/2020,12,44
+Blackburn with Darwen,E06000008,Upper tier local authority,31/03/2020,8,46
+Birmingham,E08000025,Upper tier local authority,31/03/2020,131,1063
+Bexley,E09000004,Upper tier local authority,31/03/2020,20,201
+Bedford,E06000055,Upper tier local authority,31/03/2020,13,90
+Barnsley,E08000016,Upper tier local authority,31/03/2020,33,179
+Barnet,E09000003,Upper tier local authority,31/03/2020,45,550
+Barking and Dagenham,E09000002,Upper tier local authority,31/03/2020,18,164
+Yorkshire and The Humber,E12000003,Region,31/03/2020,321,2329
+West Midlands,E12000005,Region,31/03/2020,412,3847
+South West,E12000009,Region,31/03/2020,140,1385
+South East,E12000008,Region,31/03/2020,469,4278
+North West,E12000002,Region,31/03/2020,555,3935
+North East,E12000001,Region,31/03/2020,206,1172
+London,E12000007,Region,31/03/2020,912,10097
+East of England,E12000006,Region,31/03/2020,322,2617
+East Midlands,E12000004,Region,31/03/2020,276,1996
+England,E92000001,Nation,31/03/2020,3747,32665
+York,E06000014,Upper tier local authority,30/03/2020,4,34
+Worcestershire,E10000034,Upper tier local authority,30/03/2020,45,284
+Wolverhampton,E08000031,Upper tier local authority,30/03/2020,21,237
+Wokingham,E06000041,Upper tier local authority,30/03/2020,15,78
+Wirral,E08000015,Upper tier local authority,30/03/2020,18,123
+Windsor and Maidenhead,E06000040,Upper tier local authority,30/03/2020,9,83
+Wiltshire,E06000054,Upper tier local authority,30/03/2020,13,108
+Wigan,E08000010,Upper tier local authority,30/03/2020,19,99
+Westminster,E09000033,Upper tier local authority,30/03/2020,26,313
+West Sussex,E10000032,Upper tier local authority,30/03/2020,32,236
+West Berkshire,E06000037,Upper tier local authority,30/03/2020,11,69
+Warwickshire,E10000031,Upper tier local authority,30/03/2020,40,287
+Warrington,E06000007,Upper tier local authority,30/03/2020,18,68
+Wandsworth,E09000032,Upper tier local authority,30/03/2020,26,415
+Waltham Forest,E09000031,Upper tier local authority,30/03/2020,24,256
+Walsall,E08000030,Upper tier local authority,30/03/2020,27,243
+Wakefield,E08000036,Upper tier local authority,30/03/2020,11,100
+Trafford,E08000009,Upper tier local authority,30/03/2020,19,133
+Tower Hamlets,E09000030,Upper tier local authority,30/03/2020,15,236
+Torbay,E06000027,Upper tier local authority,30/03/2020,5,42
+Thurrock,E06000034,Upper tier local authority,30/03/2020,10,83
+Telford and Wrekin,E06000020,Upper tier local authority,30/03/2020,6,61
+Tameside,E08000008,Upper tier local authority,30/03/2020,10,98
+Swindon,E06000030,Upper tier local authority,30/03/2020,6,42
+Sutton,E09000029,Upper tier local authority,30/03/2020,23,192
+Surrey,E10000030,Upper tier local authority,30/03/2020,100,695
+Sunderland,E08000024,Upper tier local authority,30/03/2020,29,117
+Suffolk,E10000029,Upper tier local authority,30/03/2020,23,164
+Stoke-on-Trent,E06000021,Upper tier local authority,30/03/2020,14,68
+Stockton-on-Tees,E06000004,Upper tier local authority,30/03/2020,16,64
+Stockport,E08000007,Upper tier local authority,30/03/2020,23,142
+Staffordshire,E10000028,Upper tier local authority,30/03/2020,41,378
+St. Helens,E08000013,Upper tier local authority,30/03/2020,23,119
+Southwark,E09000028,Upper tier local authority,30/03/2020,52,511
+Southend-on-Sea,E06000033,Upper tier local authority,30/03/2020,13,72
+Southampton,E06000045,Upper tier local authority,30/03/2020,18,106
+South Tyneside,E08000023,Upper tier local authority,30/03/2020,13,47
+South Gloucestershire,E06000025,Upper tier local authority,30/03/2020,15,91
+Somerset,E10000027,Upper tier local authority,30/03/2020,9,70
+Solihull,E08000029,Upper tier local authority,30/03/2020,14,151
+Slough,E06000039,Upper tier local authority,30/03/2020,10,123
+Shropshire,E06000051,Upper tier local authority,30/03/2020,8,116
+Sheffield,E08000019,Upper tier local authority,30/03/2020,75,656
+Sefton,E08000014,Upper tier local authority,30/03/2020,19,123
+Sandwell,E08000028,Upper tier local authority,30/03/2020,35,244
+Salford,E08000006,Upper tier local authority,30/03/2020,21,162
+Rotherham,E08000018,Upper tier local authority,30/03/2020,27,155
+Rochdale,E08000005,Upper tier local authority,30/03/2020,11,108
+Richmond upon Thames,E09000027,Upper tier local authority,30/03/2020,12,160
+Redcar and Cleveland,E06000003,Upper tier local authority,30/03/2020,7,55
+Redbridge,E09000026,Upper tier local authority,30/03/2020,24,215
+Reading,E06000038,Upper tier local authority,30/03/2020,10,77
+Portsmouth,E06000044,Upper tier local authority,30/03/2020,4,84
+Plymouth,E06000026,Upper tier local authority,30/03/2020,7,56
+Peterborough,E06000031,Upper tier local authority,30/03/2020,6,46
+Oxfordshire,E10000025,Upper tier local authority,30/03/2020,39,279
+Oldham,E08000004,Upper tier local authority,30/03/2020,18,138
+Nottinghamshire,E10000024,Upper tier local authority,30/03/2020,35,294
+Nottingham,E06000018,Upper tier local authority,30/03/2020,11,119
+Northumberland,E06000057,Upper tier local authority,30/03/2020,7,78
+Northamptonshire,E10000021,Upper tier local authority,30/03/2020,53,264
+North Yorkshire,E10000023,Upper tier local authority,30/03/2020,31,165
+North Tyneside,E08000022,Upper tier local authority,30/03/2020,3,75
+North Somerset,E06000024,Upper tier local authority,30/03/2020,8,51
+North Lincolnshire,E06000013,Upper tier local authority,30/03/2020,3,26
+North East Lincolnshire,E06000012,Upper tier local authority,30/03/2020,4,29
+Norfolk,E10000020,Upper tier local authority,30/03/2020,27,205
+Newham,E09000025,Upper tier local authority,30/03/2020,37,326
+Newcastle upon Tyne,E08000021,Upper tier local authority,30/03/2020,19,206
+Milton Keynes,E06000042,Upper tier local authority,30/03/2020,14,132
+Middlesbrough,E06000002,Upper tier local authority,30/03/2020,17,72
+Merton,E09000024,Upper tier local authority,30/03/2020,23,247
+Medway,E06000035,Upper tier local authority,30/03/2020,10,119
+Manchester,E08000003,Upper tier local authority,30/03/2020,24,195
+Luton,E06000032,Upper tier local authority,30/03/2020,16,125
+Liverpool,E08000012,Upper tier local authority,30/03/2020,43,306
+Lincolnshire,E10000019,Upper tier local authority,30/03/2020,28,171
+Lewisham,E09000023,Upper tier local authority,30/03/2020,27,320
+Leicestershire,E10000018,Upper tier local authority,30/03/2020,14,208
+Leicester,E06000016,Upper tier local authority,30/03/2020,5,107
+Leeds,E08000035,Upper tier local authority,30/03/2020,27,213
+Lancashire,E10000017,Upper tier local authority,30/03/2020,97,480
+Lambeth,E09000022,Upper tier local authority,30/03/2020,52,509
+Knowsley,E08000011,Upper tier local authority,30/03/2020,22,84
+Kirklees,E08000034,Upper tier local authority,30/03/2020,19,108
+Kingston upon Thames,E09000021,Upper tier local authority,30/03/2020,19,139
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,30/03/2020,3,19
+Kent,E10000016,Upper tier local authority,30/03/2020,62,544
+Kensington and Chelsea,E09000020,Upper tier local authority,30/03/2020,22,209
+Islington,E09000019,Upper tier local authority,30/03/2020,18,194
+Isle of Wight,E06000046,Upper tier local authority,30/03/2020,3,18
+Hounslow,E09000018,Upper tier local authority,30/03/2020,24,233
+Hillingdon,E09000017,Upper tier local authority,30/03/2020,19,242
+Hertfordshire,E10000015,Upper tier local authority,30/03/2020,86,628
+"Herefordshire, County of",E06000019,Upper tier local authority,30/03/2020,5,40
+Havering,E09000016,Upper tier local authority,30/03/2020,16,150
+Hartlepool,E06000001,Upper tier local authority,30/03/2020,5,17
+Harrow,E09000015,Upper tier local authority,30/03/2020,29,368
+Haringey,E09000014,Upper tier local authority,30/03/2020,20,219
+Hampshire,E10000014,Upper tier local authority,30/03/2020,85,700
+Hammersmith and Fulham,E09000013,Upper tier local authority,30/03/2020,12,195
+Halton,E06000006,Upper tier local authority,30/03/2020,12,48
+Hackney,E09000012,Upper tier local authority,30/03/2020,18,222
+Greenwich,E09000011,Upper tier local authority,30/03/2020,13,221
+Gloucestershire,E10000013,Upper tier local authority,30/03/2020,33,210
+Gateshead,E08000037,Upper tier local authority,30/03/2020,30,83
+Essex,E10000012,Upper tier local authority,30/03/2020,76,611
+Enfield,E09000010,Upper tier local authority,30/03/2020,26,263
+East Sussex,E10000011,Upper tier local authority,30/03/2020,14,117
+East Riding of Yorkshire,E06000011,Upper tier local authority,30/03/2020,12,62
+Ealing,E09000009,Upper tier local authority,30/03/2020,28,382
+Dudley,E08000027,Upper tier local authority,30/03/2020,28,216
+Dorset,E06000059,Upper tier local authority,30/03/2020,12,77
+Doncaster,E08000017,Upper tier local authority,30/03/2020,19,113
+Devon,E10000008,Upper tier local authority,30/03/2020,9,136
+Derbyshire,E10000007,Upper tier local authority,30/03/2020,39,367
+Derby,E06000015,Upper tier local authority,30/03/2020,22,186
+Darlington,E06000005,Upper tier local authority,30/03/2020,9,26
+Cumbria,E10000006,Upper tier local authority,30/03/2020,34,490
+Croydon,E09000008,Upper tier local authority,30/03/2020,56,467
+Coventry,E08000026,Upper tier local authority,30/03/2020,23,178
+County Durham,E06000047,Upper tier local authority,30/03/2020,20,126
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,30/03/2020,11,106
+City of London,E09000001,Upper tier local authority,30/03/2020,2,10
+Cheshire West and Chester,E06000050,Upper tier local authority,30/03/2020,16,110
+Cheshire East,E06000049,Upper tier local authority,30/03/2020,12,110
+Central Bedfordshire,E06000056,Upper tier local authority,30/03/2020,11,103
+Camden,E09000007,Upper tier local authority,30/03/2020,17,227
+Cambridgeshire,E10000003,Upper tier local authority,30/03/2020,25,181
+Calderdale,E08000033,Upper tier local authority,30/03/2020,12,52
+Bury,E08000002,Upper tier local authority,30/03/2020,16,94
+Buckinghamshire,E10000002,Upper tier local authority,30/03/2020,29,224
+Bromley,E09000006,Upper tier local authority,30/03/2020,39,368
+"Bristol, City of",E06000023,Upper tier local authority,30/03/2020,17,133
+Brighton and Hove,E06000043,Upper tier local authority,30/03/2020,6,88
+Brent,E09000005,Upper tier local authority,30/03/2020,57,544
+Bradford,E08000032,Upper tier local authority,30/03/2020,23,130
+Bracknell Forest,E06000036,Upper tier local authority,30/03/2020,3,37
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,30/03/2020,13,71
+Bolton,E08000001,Upper tier local authority,30/03/2020,17,80
+Blackpool,E06000009,Upper tier local authority,30/03/2020,6,32
+Blackburn with Darwen,E06000008,Upper tier local authority,30/03/2020,8,38
+Birmingham,E08000025,Upper tier local authority,30/03/2020,123,932
+Bexley,E09000004,Upper tier local authority,30/03/2020,15,181
+Bedford,E06000055,Upper tier local authority,30/03/2020,7,77
+Bath and North East Somerset,E06000022,Upper tier local authority,30/03/2020,5,52
+Barnsley,E08000016,Upper tier local authority,30/03/2020,15,146
+Barnet,E09000003,Upper tier local authority,30/03/2020,42,505
+Barking and Dagenham,E09000002,Upper tier local authority,30/03/2020,11,146
+Yorkshire and The Humber,E12000003,Region,30/03/2020,285,2008
+West Midlands,E12000005,Region,30/03/2020,430,3435
+South West,E12000009,Region,30/03/2020,163,1245
+South East,E12000008,Region,30/03/2020,474,3809
+North West,E12000002,Region,30/03/2020,506,3380
+North East,E12000001,Region,30/03/2020,175,966
+London,E12000007,Region,30/03/2020,844,9185
+East of England,E12000006,Region,30/03/2020,300,2295
+East Midlands,E12000004,Region,30/03/2020,207,1720
+England,E92000001,Nation,30/03/2020,3481,28918
+Worcestershire,E10000034,Upper tier local authority,29/03/2020,28,239
+Wolverhampton,E08000031,Upper tier local authority,29/03/2020,12,216
+Wokingham,E06000041,Upper tier local authority,29/03/2020,13,63
+Wirral,E08000015,Upper tier local authority,29/03/2020,22,105
+Windsor and Maidenhead,E06000040,Upper tier local authority,29/03/2020,2,74
+Wiltshire,E06000054,Upper tier local authority,29/03/2020,3,95
+Wigan,E08000010,Upper tier local authority,29/03/2020,14,80
+Westminster,E09000033,Upper tier local authority,29/03/2020,17,287
+West Sussex,E10000032,Upper tier local authority,29/03/2020,16,204
+West Berkshire,E06000037,Upper tier local authority,29/03/2020,3,58
+Warwickshire,E10000031,Upper tier local authority,29/03/2020,26,247
+Warrington,E06000007,Upper tier local authority,29/03/2020,10,50
+Wandsworth,E09000032,Upper tier local authority,29/03/2020,23,389
+Waltham Forest,E09000031,Upper tier local authority,29/03/2020,24,232
+Walsall,E08000030,Upper tier local authority,29/03/2020,21,216
+Wakefield,E08000036,Upper tier local authority,29/03/2020,11,89
+Trafford,E08000009,Upper tier local authority,29/03/2020,8,114
+Tower Hamlets,E09000030,Upper tier local authority,29/03/2020,20,221
+Torbay,E06000027,Upper tier local authority,29/03/2020,1,37
+Thurrock,E06000034,Upper tier local authority,29/03/2020,7,73
+Telford and Wrekin,E06000020,Upper tier local authority,29/03/2020,10,55
+Tameside,E08000008,Upper tier local authority,29/03/2020,13,88
+Swindon,E06000030,Upper tier local authority,29/03/2020,5,36
+Sutton,E09000029,Upper tier local authority,29/03/2020,11,169
+Surrey,E10000030,Upper tier local authority,29/03/2020,49,595
+Sunderland,E08000024,Upper tier local authority,29/03/2020,11,88
+Suffolk,E10000029,Upper tier local authority,29/03/2020,20,141
+Stoke-on-Trent,E06000021,Upper tier local authority,29/03/2020,17,54
+Stockton-on-Tees,E06000004,Upper tier local authority,29/03/2020,5,48
+Stockport,E08000007,Upper tier local authority,29/03/2020,12,119
+Staffordshire,E10000028,Upper tier local authority,29/03/2020,45,337
+St. Helens,E08000013,Upper tier local authority,29/03/2020,20,96
+Southwark,E09000028,Upper tier local authority,29/03/2020,34,459
+Southend-on-Sea,E06000033,Upper tier local authority,29/03/2020,11,59
+Southampton,E06000045,Upper tier local authority,29/03/2020,9,88
+South Tyneside,E08000023,Upper tier local authority,29/03/2020,5,34
+South Gloucestershire,E06000025,Upper tier local authority,29/03/2020,9,76
+Somerset,E10000027,Upper tier local authority,29/03/2020,4,61
+Solihull,E08000029,Upper tier local authority,29/03/2020,13,137
+Slough,E06000039,Upper tier local authority,29/03/2020,6,113
+Shropshire,E06000051,Upper tier local authority,29/03/2020,13,108
+Sheffield,E08000019,Upper tier local authority,29/03/2020,62,581
+Sefton,E08000014,Upper tier local authority,29/03/2020,12,104
+Sandwell,E08000028,Upper tier local authority,29/03/2020,29,209
+Salford,E08000006,Upper tier local authority,29/03/2020,14,141
+Rutland,E06000017,Upper tier local authority,29/03/2020,1,4
+Rotherham,E08000018,Upper tier local authority,29/03/2020,27,128
+Rochdale,E08000005,Upper tier local authority,29/03/2020,8,97
+Richmond upon Thames,E09000027,Upper tier local authority,29/03/2020,15,148
+Redcar and Cleveland,E06000003,Upper tier local authority,29/03/2020,7,48
+Redbridge,E09000026,Upper tier local authority,29/03/2020,19,191
+Reading,E06000038,Upper tier local authority,29/03/2020,11,67
+Portsmouth,E06000044,Upper tier local authority,29/03/2020,2,80
+Plymouth,E06000026,Upper tier local authority,29/03/2020,5,49
+Peterborough,E06000031,Upper tier local authority,29/03/2020,3,40
+Oxfordshire,E10000025,Upper tier local authority,29/03/2020,21,240
+Oldham,E08000004,Upper tier local authority,29/03/2020,10,120
+Nottinghamshire,E10000024,Upper tier local authority,29/03/2020,31,259
+Nottingham,E06000018,Upper tier local authority,29/03/2020,7,108
+Northumberland,E06000057,Upper tier local authority,29/03/2020,6,71
+Northamptonshire,E10000021,Upper tier local authority,29/03/2020,23,211
+North Yorkshire,E10000023,Upper tier local authority,29/03/2020,14,134
+North Tyneside,E08000022,Upper tier local authority,29/03/2020,7,72
+North Somerset,E06000024,Upper tier local authority,29/03/2020,4,43
+North Lincolnshire,E06000013,Upper tier local authority,29/03/2020,6,23
+North East Lincolnshire,E06000012,Upper tier local authority,29/03/2020,3,25
+Norfolk,E10000020,Upper tier local authority,29/03/2020,21,178
+Newham,E09000025,Upper tier local authority,29/03/2020,21,289
+Newcastle upon Tyne,E08000021,Upper tier local authority,29/03/2020,30,187
+Milton Keynes,E06000042,Upper tier local authority,29/03/2020,10,118
+Middlesbrough,E06000002,Upper tier local authority,29/03/2020,14,55
+Merton,E09000024,Upper tier local authority,29/03/2020,13,224
+Medway,E06000035,Upper tier local authority,29/03/2020,9,109
+Manchester,E08000003,Upper tier local authority,29/03/2020,23,171
+Luton,E06000032,Upper tier local authority,29/03/2020,10,109
+Liverpool,E08000012,Upper tier local authority,29/03/2020,36,263
+Lincolnshire,E10000019,Upper tier local authority,29/03/2020,15,143
+Lewisham,E09000023,Upper tier local authority,29/03/2020,25,293
+Leicestershire,E10000018,Upper tier local authority,29/03/2020,4,194
+Leicester,E06000016,Upper tier local authority,29/03/2020,1,102
+Leeds,E08000035,Upper tier local authority,29/03/2020,21,186
+Lancashire,E10000017,Upper tier local authority,29/03/2020,36,383
+Lambeth,E09000022,Upper tier local authority,29/03/2020,27,457
+Knowsley,E08000011,Upper tier local authority,29/03/2020,12,62
+Kirklees,E08000034,Upper tier local authority,29/03/2020,15,89
+Kingston upon Thames,E09000021,Upper tier local authority,29/03/2020,13,120
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,29/03/2020,3,16
+Kent,E10000016,Upper tier local authority,29/03/2020,59,482
+Kensington and Chelsea,E09000020,Upper tier local authority,29/03/2020,9,187
+Islington,E09000019,Upper tier local authority,29/03/2020,11,176
+Hounslow,E09000018,Upper tier local authority,29/03/2020,15,209
+Hillingdon,E09000017,Upper tier local authority,29/03/2020,18,223
+Hertfordshire,E10000015,Upper tier local authority,29/03/2020,63,542
+"Herefordshire, County of",E06000019,Upper tier local authority,29/03/2020,4,35
+Havering,E09000016,Upper tier local authority,29/03/2020,9,134
+Hartlepool,E06000001,Upper tier local authority,29/03/2020,1,12
+Harrow,E09000015,Upper tier local authority,29/03/2020,22,339
+Haringey,E09000014,Upper tier local authority,29/03/2020,16,199
+Hampshire,E10000014,Upper tier local authority,29/03/2020,49,615
+Hammersmith and Fulham,E09000013,Upper tier local authority,29/03/2020,7,183
+Halton,E06000006,Upper tier local authority,29/03/2020,2,36
+Hackney,E09000012,Upper tier local authority,29/03/2020,14,204
+Greenwich,E09000011,Upper tier local authority,29/03/2020,12,208
+Gloucestershire,E10000013,Upper tier local authority,29/03/2020,17,177
+Gateshead,E08000037,Upper tier local authority,29/03/2020,8,53
+Essex,E10000012,Upper tier local authority,29/03/2020,54,535
+Enfield,E09000010,Upper tier local authority,29/03/2020,9,237
+East Sussex,E10000011,Upper tier local authority,29/03/2020,12,103
+East Riding of Yorkshire,E06000011,Upper tier local authority,29/03/2020,10,50
+Ealing,E09000009,Upper tier local authority,29/03/2020,25,354
+Dudley,E08000027,Upper tier local authority,29/03/2020,24,188
+Dorset,E06000059,Upper tier local authority,29/03/2020,7,65
+Doncaster,E08000017,Upper tier local authority,29/03/2020,16,94
+Devon,E10000008,Upper tier local authority,29/03/2020,9,127
+Derbyshire,E10000007,Upper tier local authority,29/03/2020,27,328
+Derby,E06000015,Upper tier local authority,29/03/2020,20,164
+Darlington,E06000005,Upper tier local authority,29/03/2020,1,17
+Cumbria,E10000006,Upper tier local authority,29/03/2020,49,456
+Croydon,E09000008,Upper tier local authority,29/03/2020,26,411
+Coventry,E08000026,Upper tier local authority,29/03/2020,17,155
+County Durham,E06000047,Upper tier local authority,29/03/2020,12,106
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,29/03/2020,11,95
+City of London,E09000001,Upper tier local authority,29/03/2020,1,8
+Cheshire West and Chester,E06000050,Upper tier local authority,29/03/2020,23,94
+Cheshire East,E06000049,Upper tier local authority,29/03/2020,13,98
+Central Bedfordshire,E06000056,Upper tier local authority,29/03/2020,5,92
+Camden,E09000007,Upper tier local authority,29/03/2020,6,210
+Cambridgeshire,E10000003,Upper tier local authority,29/03/2020,12,156
+Calderdale,E08000033,Upper tier local authority,29/03/2020,9,40
+Bury,E08000002,Upper tier local authority,29/03/2020,7,78
+Buckinghamshire,E10000002,Upper tier local authority,29/03/2020,11,195
+Bromley,E09000006,Upper tier local authority,29/03/2020,22,329
+"Bristol, City of",E06000023,Upper tier local authority,29/03/2020,12,116
+Brighton and Hove,E06000043,Upper tier local authority,29/03/2020,9,82
+Brent,E09000005,Upper tier local authority,29/03/2020,53,487
+Bradford,E08000032,Upper tier local authority,29/03/2020,20,107
+Bracknell Forest,E06000036,Upper tier local authority,29/03/2020,4,34
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,29/03/2020,6,58
+Bolton,E08000001,Upper tier local authority,29/03/2020,3,63
+Blackpool,E06000009,Upper tier local authority,29/03/2020,4,26
+Blackburn with Darwen,E06000008,Upper tier local authority,29/03/2020,8,30
+Birmingham,E08000025,Upper tier local authority,29/03/2020,105,809
+Bexley,E09000004,Upper tier local authority,29/03/2020,14,166
+Bedford,E06000055,Upper tier local authority,29/03/2020,3,70
+Bath and North East Somerset,E06000022,Upper tier local authority,29/03/2020,6,47
+Barnsley,E08000016,Upper tier local authority,29/03/2020,13,131
+Barnet,E09000003,Upper tier local authority,29/03/2020,30,463
+Barking and Dagenham,E09000002,Upper tier local authority,29/03/2020,11,135
+Yorkshire and The Humber,E12000003,Region,29/03/2020,230,1723
+West Midlands,E12000005,Region,29/03/2020,364,3005
+South West,E12000009,Region,29/03/2020,99,1082
+South East,E12000008,Region,29/03/2020,295,3335
+North West,E12000002,Region,29/03/2020,359,2874
+North East,E12000001,Region,29/03/2020,107,791
+London,E12000007,Region,29/03/2020,592,8341
+East of England,E12000006,Region,29/03/2020,209,1995
+East Midlands,E12000004,Region,29/03/2020,129,1513
+England,E92000001,Nation,29/03/2020,2435,25437
+York,E06000014,Upper tier local authority,28/03/2020,7,30
+Worcestershire,E10000034,Upper tier local authority,28/03/2020,35,211
+Wolverhampton,E08000031,Upper tier local authority,28/03/2020,18,204
+Wokingham,E06000041,Upper tier local authority,28/03/2020,7,50
+Wirral,E08000015,Upper tier local authority,28/03/2020,13,83
+Windsor and Maidenhead,E06000040,Upper tier local authority,28/03/2020,8,72
+Wiltshire,E06000054,Upper tier local authority,28/03/2020,7,92
+Wigan,E08000010,Upper tier local authority,28/03/2020,7,66
+Westminster,E09000033,Upper tier local authority,28/03/2020,20,270
+West Sussex,E10000032,Upper tier local authority,28/03/2020,17,188
+West Berkshire,E06000037,Upper tier local authority,28/03/2020,6,55
+Warwickshire,E10000031,Upper tier local authority,28/03/2020,26,221
+Warrington,E06000007,Upper tier local authority,28/03/2020,8,40
+Wandsworth,E09000032,Upper tier local authority,28/03/2020,20,366
+Waltham Forest,E09000031,Upper tier local authority,28/03/2020,21,208
+Walsall,E08000030,Upper tier local authority,28/03/2020,35,195
+Wakefield,E08000036,Upper tier local authority,28/03/2020,13,78
+Trafford,E08000009,Upper tier local authority,28/03/2020,13,106
+Tower Hamlets,E09000030,Upper tier local authority,28/03/2020,12,201
+Torbay,E06000027,Upper tier local authority,28/03/2020,3,36
+Thurrock,E06000034,Upper tier local authority,28/03/2020,7,66
+Telford and Wrekin,E06000020,Upper tier local authority,28/03/2020,6,45
+Tameside,E08000008,Upper tier local authority,28/03/2020,7,75
+Swindon,E06000030,Upper tier local authority,28/03/2020,1,31
+Sutton,E09000029,Upper tier local authority,28/03/2020,17,158
+Surrey,E10000030,Upper tier local authority,28/03/2020,56,546
+Sunderland,E08000024,Upper tier local authority,28/03/2020,4,77
+Suffolk,E10000029,Upper tier local authority,28/03/2020,6,121
+Stoke-on-Trent,E06000021,Upper tier local authority,28/03/2020,4,37
+Stockton-on-Tees,E06000004,Upper tier local authority,28/03/2020,10,43
+Stockport,E08000007,Upper tier local authority,28/03/2020,10,107
+Staffordshire,E10000028,Upper tier local authority,28/03/2020,23,292
+St. Helens,E08000013,Upper tier local authority,28/03/2020,10,76
+Southwark,E09000028,Upper tier local authority,28/03/2020,32,425
+Southend-on-Sea,E06000033,Upper tier local authority,28/03/2020,6,48
+Southampton,E06000045,Upper tier local authority,28/03/2020,10,79
+South Tyneside,E08000023,Upper tier local authority,28/03/2020,1,29
+South Gloucestershire,E06000025,Upper tier local authority,28/03/2020,8,67
+Somerset,E10000027,Upper tier local authority,28/03/2020,5,57
+Solihull,E08000029,Upper tier local authority,28/03/2020,29,124
+Slough,E06000039,Upper tier local authority,28/03/2020,5,107
+Shropshire,E06000051,Upper tier local authority,28/03/2020,13,95
+Sheffield,E08000019,Upper tier local authority,28/03/2020,65,519
+Sefton,E08000014,Upper tier local authority,28/03/2020,12,92
+Sandwell,E08000028,Upper tier local authority,28/03/2020,18,180
+Salford,E08000006,Upper tier local authority,28/03/2020,18,127
+Rotherham,E08000018,Upper tier local authority,28/03/2020,16,101
+Rochdale,E08000005,Upper tier local authority,28/03/2020,13,89
+Richmond upon Thames,E09000027,Upper tier local authority,28/03/2020,11,133
+Redcar and Cleveland,E06000003,Upper tier local authority,28/03/2020,11,41
+Redbridge,E09000026,Upper tier local authority,28/03/2020,15,172
+Reading,E06000038,Upper tier local authority,28/03/2020,10,56
+Portsmouth,E06000044,Upper tier local authority,28/03/2020,5,78
+Plymouth,E06000026,Upper tier local authority,28/03/2020,3,44
+Peterborough,E06000031,Upper tier local authority,28/03/2020,5,37
+Oxfordshire,E10000025,Upper tier local authority,28/03/2020,22,219
+Oldham,E08000004,Upper tier local authority,28/03/2020,13,110
+Nottinghamshire,E10000024,Upper tier local authority,28/03/2020,30,228
+Nottingham,E06000018,Upper tier local authority,28/03/2020,4,101
+Northumberland,E06000057,Upper tier local authority,28/03/2020,10,65
+Northamptonshire,E10000021,Upper tier local authority,28/03/2020,19,188
+North Yorkshire,E10000023,Upper tier local authority,28/03/2020,13,120
+North Tyneside,E08000022,Upper tier local authority,28/03/2020,17,65
+North Somerset,E06000024,Upper tier local authority,28/03/2020,2,39
+North Lincolnshire,E06000013,Upper tier local authority,28/03/2020,2,17
+North East Lincolnshire,E06000012,Upper tier local authority,28/03/2020,1,22
+Norfolk,E10000020,Upper tier local authority,28/03/2020,23,157
+Newham,E09000025,Upper tier local authority,28/03/2020,35,268
+Newcastle upon Tyne,E08000021,Upper tier local authority,28/03/2020,12,157
+Milton Keynes,E06000042,Upper tier local authority,28/03/2020,10,108
+Middlesbrough,E06000002,Upper tier local authority,28/03/2020,10,41
+Merton,E09000024,Upper tier local authority,28/03/2020,14,211
+Medway,E06000035,Upper tier local authority,28/03/2020,9,100
+Manchester,E08000003,Upper tier local authority,28/03/2020,31,148
+Luton,E06000032,Upper tier local authority,28/03/2020,10,99
+Liverpool,E08000012,Upper tier local authority,28/03/2020,27,227
+Lincolnshire,E10000019,Upper tier local authority,28/03/2020,22,128
+Lewisham,E09000023,Upper tier local authority,28/03/2020,21,268
+Leicestershire,E10000018,Upper tier local authority,28/03/2020,15,190
+Leicester,E06000016,Upper tier local authority,28/03/2020,11,101
+Leeds,E08000035,Upper tier local authority,28/03/2020,26,165
+Lancashire,E10000017,Upper tier local authority,28/03/2020,41,347
+Lambeth,E09000022,Upper tier local authority,28/03/2020,37,430
+Knowsley,E08000011,Upper tier local authority,28/03/2020,10,50
+Kirklees,E08000034,Upper tier local authority,28/03/2020,9,74
+Kingston upon Thames,E09000021,Upper tier local authority,28/03/2020,6,107
+Kent,E10000016,Upper tier local authority,28/03/2020,49,423
+Kensington and Chelsea,E09000020,Upper tier local authority,28/03/2020,9,178
+Islington,E09000019,Upper tier local authority,28/03/2020,7,165
+Isle of Wight,E06000046,Upper tier local authority,28/03/2020,2,15
+Hounslow,E09000018,Upper tier local authority,28/03/2020,8,194
+Hillingdon,E09000017,Upper tier local authority,28/03/2020,11,205
+Hertfordshire,E10000015,Upper tier local authority,28/03/2020,45,479
+"Herefordshire, County of",E06000019,Upper tier local authority,28/03/2020,4,31
+Havering,E09000016,Upper tier local authority,28/03/2020,6,125
+Hartlepool,E06000001,Upper tier local authority,28/03/2020,3,11
+Harrow,E09000015,Upper tier local authority,28/03/2020,27,317
+Haringey,E09000014,Upper tier local authority,28/03/2020,16,183
+Hampshire,E10000014,Upper tier local authority,28/03/2020,79,566
+Hammersmith and Fulham,E09000013,Upper tier local authority,28/03/2020,12,176
+Halton,E06000006,Upper tier local authority,28/03/2020,9,34
+Hackney,E09000012,Upper tier local authority,28/03/2020,12,190
+Greenwich,E09000011,Upper tier local authority,28/03/2020,16,196
+Gloucestershire,E10000013,Upper tier local authority,28/03/2020,23,160
+Gateshead,E08000037,Upper tier local authority,28/03/2020,13,45
+Essex,E10000012,Upper tier local authority,28/03/2020,57,481
+Enfield,E09000010,Upper tier local authority,28/03/2020,20,228
+East Sussex,E10000011,Upper tier local authority,28/03/2020,8,91
+East Riding of Yorkshire,E06000011,Upper tier local authority,28/03/2020,3,40
+Ealing,E09000009,Upper tier local authority,28/03/2020,20,329
+Dudley,E08000027,Upper tier local authority,28/03/2020,17,164
+Dorset,E06000059,Upper tier local authority,28/03/2020,8,58
+Doncaster,E08000017,Upper tier local authority,28/03/2020,19,78
+Devon,E10000008,Upper tier local authority,28/03/2020,13,118
+Derbyshire,E10000007,Upper tier local authority,28/03/2020,37,301
+Derby,E06000015,Upper tier local authority,28/03/2020,21,144
+Darlington,E06000005,Upper tier local authority,28/03/2020,2,16
+Cumbria,E10000006,Upper tier local authority,28/03/2020,29,407
+Croydon,E09000008,Upper tier local authority,28/03/2020,22,385
+Coventry,E08000026,Upper tier local authority,28/03/2020,18,138
+County Durham,E06000047,Upper tier local authority,28/03/2020,19,94
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,28/03/2020,10,84
+Cheshire West and Chester,E06000050,Upper tier local authority,28/03/2020,11,71
+Cheshire East,E06000049,Upper tier local authority,28/03/2020,8,85
+Central Bedfordshire,E06000056,Upper tier local authority,28/03/2020,10,87
+Camden,E09000007,Upper tier local authority,28/03/2020,11,204
+Cambridgeshire,E10000003,Upper tier local authority,28/03/2020,9,144
+Calderdale,E08000033,Upper tier local authority,28/03/2020,5,31
+Bury,E08000002,Upper tier local authority,28/03/2020,10,71
+Buckinghamshire,E10000002,Upper tier local authority,28/03/2020,21,184
+Bromley,E09000006,Upper tier local authority,28/03/2020,32,307
+"Bristol, City of",E06000023,Upper tier local authority,28/03/2020,10,104
+Brighton and Hove,E06000043,Upper tier local authority,28/03/2020,8,73
+Brent,E09000005,Upper tier local authority,28/03/2020,32,434
+Bradford,E08000032,Upper tier local authority,28/03/2020,14,87
+Bracknell Forest,E06000036,Upper tier local authority,28/03/2020,5,30
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,28/03/2020,7,52
+Bolton,E08000001,Upper tier local authority,28/03/2020,11,60
+Blackpool,E06000009,Upper tier local authority,28/03/2020,5,22
+Blackburn with Darwen,E06000008,Upper tier local authority,28/03/2020,4,22
+Birmingham,E08000025,Upper tier local authority,28/03/2020,80,704
+Bexley,E09000004,Upper tier local authority,28/03/2020,10,152
+Bedford,E06000055,Upper tier local authority,28/03/2020,5,67
+Bath and North East Somerset,E06000022,Upper tier local authority,28/03/2020,2,41
+Barnsley,E08000016,Upper tier local authority,28/03/2020,14,118
+Barnet,E09000003,Upper tier local authority,28/03/2020,34,433
+Barking and Dagenham,E09000002,Upper tier local authority,28/03/2020,11,124
+Yorkshire and The Humber,E12000003,Region,28/03/2020,207,1493
+West Midlands,E12000005,Region,28/03/2020,326,2641
+South West,E12000009,Region,28/03/2020,102,983
+South East,E12000008,Region,28/03/2020,337,3040
+North West,E12000002,Region,28/03/2020,320,2515
+North East,E12000001,Region,28/03/2020,112,684
+London,E12000007,Region,28/03/2020,577,7749
+East of England,E12000006,Region,28/03/2020,183,1786
+East Midlands,E12000004,Region,28/03/2020,159,1384
+England,E92000001,Nation,28/03/2020,2374,23002
+York,E06000014,Upper tier local authority,27/03/2020,5,23
+Worcestershire,E10000034,Upper tier local authority,27/03/2020,22,176
+Wolverhampton,E08000031,Upper tier local authority,27/03/2020,26,186
+Wokingham,E06000041,Upper tier local authority,27/03/2020,10,43
+Wirral,E08000015,Upper tier local authority,27/03/2020,15,70
+Windsor and Maidenhead,E06000040,Upper tier local authority,27/03/2020,4,64
+Wiltshire,E06000054,Upper tier local authority,27/03/2020,18,85
+Wigan,E08000010,Upper tier local authority,27/03/2020,13,59
+Westminster,E09000033,Upper tier local authority,27/03/2020,13,250
+West Sussex,E10000032,Upper tier local authority,27/03/2020,19,171
+West Berkshire,E06000037,Upper tier local authority,27/03/2020,5,49
+Warwickshire,E10000031,Upper tier local authority,27/03/2020,18,195
+Warrington,E06000007,Upper tier local authority,27/03/2020,10,32
+Wandsworth,E09000032,Upper tier local authority,27/03/2020,30,346
+Waltham Forest,E09000031,Upper tier local authority,27/03/2020,27,187
+Walsall,E08000030,Upper tier local authority,27/03/2020,19,160
+Wakefield,E08000036,Upper tier local authority,27/03/2020,7,65
+Trafford,E08000009,Upper tier local authority,27/03/2020,8,93
+Tower Hamlets,E09000030,Upper tier local authority,27/03/2020,22,189
+Torbay,E06000027,Upper tier local authority,27/03/2020,6,33
+Thurrock,E06000034,Upper tier local authority,27/03/2020,12,59
+Telford and Wrekin,E06000020,Upper tier local authority,27/03/2020,8,39
+Tameside,E08000008,Upper tier local authority,27/03/2020,8,68
+Swindon,E06000030,Upper tier local authority,27/03/2020,3,30
+Sutton,E09000029,Upper tier local authority,27/03/2020,21,141
+Surrey,E10000030,Upper tier local authority,27/03/2020,56,490
+Sunderland,E08000024,Upper tier local authority,27/03/2020,9,73
+Suffolk,E10000029,Upper tier local authority,27/03/2020,20,115
+Stoke-on-Trent,E06000021,Upper tier local authority,27/03/2020,3,33
+Stockton-on-Tees,E06000004,Upper tier local authority,27/03/2020,8,33
+Stockport,E08000007,Upper tier local authority,27/03/2020,8,97
+Staffordshire,E10000028,Upper tier local authority,27/03/2020,35,269
+St. Helens,E08000013,Upper tier local authority,27/03/2020,14,66
+Southwark,E09000028,Upper tier local authority,27/03/2020,48,393
+Southend-on-Sea,E06000033,Upper tier local authority,27/03/2020,7,42
+Southampton,E06000045,Upper tier local authority,27/03/2020,13,69
+South Tyneside,E08000023,Upper tier local authority,27/03/2020,7,28
+South Gloucestershire,E06000025,Upper tier local authority,27/03/2020,6,59
+Somerset,E10000027,Upper tier local authority,27/03/2020,8,52
+Solihull,E08000029,Upper tier local authority,27/03/2020,17,95
+Slough,E06000039,Upper tier local authority,27/03/2020,11,102
+Shropshire,E06000051,Upper tier local authority,27/03/2020,10,82
+Sheffield,E08000019,Upper tier local authority,27/03/2020,27,454
+Sefton,E08000014,Upper tier local authority,27/03/2020,16,80
+Sandwell,E08000028,Upper tier local authority,27/03/2020,19,162
+Salford,E08000006,Upper tier local authority,27/03/2020,13,109
+Rotherham,E08000018,Upper tier local authority,27/03/2020,10,85
+Rochdale,E08000005,Upper tier local authority,27/03/2020,11,76
+Richmond upon Thames,E09000027,Upper tier local authority,27/03/2020,19,122
+Redcar and Cleveland,E06000003,Upper tier local authority,27/03/2020,10,30
+Redbridge,E09000026,Upper tier local authority,27/03/2020,21,157
+Reading,E06000038,Upper tier local authority,27/03/2020,3,46
+Portsmouth,E06000044,Upper tier local authority,27/03/2020,3,73
+Plymouth,E06000026,Upper tier local authority,27/03/2020,3,41
+Peterborough,E06000031,Upper tier local authority,27/03/2020,6,32
+Oxfordshire,E10000025,Upper tier local authority,27/03/2020,28,197
+Oldham,E08000004,Upper tier local authority,27/03/2020,11,97
+Nottinghamshire,E10000024,Upper tier local authority,27/03/2020,31,198
+Nottingham,E06000018,Upper tier local authority,27/03/2020,9,97
+Northumberland,E06000057,Upper tier local authority,27/03/2020,7,55
+Northamptonshire,E10000021,Upper tier local authority,27/03/2020,20,169
+North Yorkshire,E10000023,Upper tier local authority,27/03/2020,18,107
+North Tyneside,E08000022,Upper tier local authority,27/03/2020,11,48
+North Somerset,E06000024,Upper tier local authority,27/03/2020,6,37
+North Lincolnshire,E06000013,Upper tier local authority,27/03/2020,2,15
+North East Lincolnshire,E06000012,Upper tier local authority,27/03/2020,3,21
+Norfolk,E10000020,Upper tier local authority,27/03/2020,20,134
+Newham,E09000025,Upper tier local authority,27/03/2020,38,233
+Newcastle upon Tyne,E08000021,Upper tier local authority,27/03/2020,20,145
+Milton Keynes,E06000042,Upper tier local authority,27/03/2020,10,98
+Middlesbrough,E06000002,Upper tier local authority,27/03/2020,7,31
+Merton,E09000024,Upper tier local authority,27/03/2020,24,197
+Medway,E06000035,Upper tier local authority,27/03/2020,8,91
+Manchester,E08000003,Upper tier local authority,27/03/2020,14,117
+Luton,E06000032,Upper tier local authority,27/03/2020,12,89
+Liverpool,E08000012,Upper tier local authority,27/03/2020,27,200
+Lincolnshire,E10000019,Upper tier local authority,27/03/2020,17,106
+Lewisham,E09000023,Upper tier local authority,27/03/2020,34,247
+Leicestershire,E10000018,Upper tier local authority,27/03/2020,15,175
+Leicester,E06000016,Upper tier local authority,27/03/2020,8,90
+Leeds,E08000035,Upper tier local authority,27/03/2020,21,139
+Lancashire,E10000017,Upper tier local authority,27/03/2020,44,306
+Lambeth,E09000022,Upper tier local authority,27/03/2020,35,393
+Knowsley,E08000011,Upper tier local authority,27/03/2020,7,40
+Kirklees,E08000034,Upper tier local authority,27/03/2020,10,65
+Kingston upon Thames,E09000021,Upper tier local authority,27/03/2020,11,101
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,27/03/2020,2,13
+Kent,E10000016,Upper tier local authority,27/03/2020,58,374
+Kensington and Chelsea,E09000020,Upper tier local authority,27/03/2020,20,169
+Islington,E09000019,Upper tier local authority,27/03/2020,15,158
+Isle of Wight,E06000046,Upper tier local authority,27/03/2020,1,13
+Hounslow,E09000018,Upper tier local authority,27/03/2020,26,186
+Hillingdon,E09000017,Upper tier local authority,27/03/2020,26,194
+Hertfordshire,E10000015,Upper tier local authority,27/03/2020,52,434
+"Herefordshire, County of",E06000019,Upper tier local authority,27/03/2020,2,27
+Havering,E09000016,Upper tier local authority,27/03/2020,10,119
+Hartlepool,E06000001,Upper tier local authority,27/03/2020,2,8
+Harrow,E09000015,Upper tier local authority,27/03/2020,41,290
+Haringey,E09000014,Upper tier local authority,27/03/2020,18,167
+Hampshire,E10000014,Upper tier local authority,27/03/2020,58,487
+Hammersmith and Fulham,E09000013,Upper tier local authority,27/03/2020,8,164
+Halton,E06000006,Upper tier local authority,27/03/2020,7,25
+Hackney,E09000012,Upper tier local authority,27/03/2020,15,178
+Greenwich,E09000011,Upper tier local authority,27/03/2020,18,180
+Gloucestershire,E10000013,Upper tier local authority,27/03/2020,19,137
+Gateshead,E08000037,Upper tier local authority,27/03/2020,4,32
+Essex,E10000012,Upper tier local authority,27/03/2020,70,424
+Enfield,E09000010,Upper tier local authority,27/03/2020,15,208
+East Sussex,E10000011,Upper tier local authority,27/03/2020,13,83
+East Riding of Yorkshire,E06000011,Upper tier local authority,27/03/2020,3,37
+Ealing,E09000009,Upper tier local authority,27/03/2020,37,309
+Dudley,E08000027,Upper tier local authority,27/03/2020,14,147
+Dorset,E06000059,Upper tier local authority,27/03/2020,6,50
+Doncaster,E08000017,Upper tier local authority,27/03/2020,4,59
+Devon,E10000008,Upper tier local authority,27/03/2020,12,105
+Derbyshire,E10000007,Upper tier local authority,27/03/2020,28,264
+Derby,E06000015,Upper tier local authority,27/03/2020,8,123
+Darlington,E06000005,Upper tier local authority,27/03/2020,2,14
+Cumbria,E10000006,Upper tier local authority,27/03/2020,54,378
+Croydon,E09000008,Upper tier local authority,27/03/2020,42,363
+Coventry,E08000026,Upper tier local authority,27/03/2020,13,120
+County Durham,E06000047,Upper tier local authority,27/03/2020,14,75
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,27/03/2020,15,74
+City of London,E09000001,Upper tier local authority,27/03/2020,1,7
+Cheshire West and Chester,E06000050,Upper tier local authority,27/03/2020,17,60
+Cheshire East,E06000049,Upper tier local authority,27/03/2020,14,77
+Central Bedfordshire,E06000056,Upper tier local authority,27/03/2020,12,77
+Camden,E09000007,Upper tier local authority,27/03/2020,20,193
+Cambridgeshire,E10000003,Upper tier local authority,27/03/2020,18,135
+Calderdale,E08000033,Upper tier local authority,27/03/2020,6,26
+Bury,E08000002,Upper tier local authority,27/03/2020,9,61
+Buckinghamshire,E10000002,Upper tier local authority,27/03/2020,17,163
+Bromley,E09000006,Upper tier local authority,27/03/2020,30,275
+"Bristol, City of",E06000023,Upper tier local authority,27/03/2020,14,94
+Brighton and Hove,E06000043,Upper tier local authority,27/03/2020,12,65
+Brent,E09000005,Upper tier local authority,27/03/2020,48,402
+Bradford,E08000032,Upper tier local authority,27/03/2020,21,73
+Bracknell Forest,E06000036,Upper tier local authority,27/03/2020,2,25
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,27/03/2020,9,45
+Bolton,E08000001,Upper tier local authority,27/03/2020,7,49
+Blackpool,E06000009,Upper tier local authority,27/03/2020,2,17
+Blackburn with Darwen,E06000008,Upper tier local authority,27/03/2020,4,18
+Birmingham,E08000025,Upper tier local authority,27/03/2020,70,624
+Bexley,E09000004,Upper tier local authority,27/03/2020,19,142
+Bedford,E06000055,Upper tier local authority,27/03/2020,15,62
+Bath and North East Somerset,E06000022,Upper tier local authority,27/03/2020,4,39
+Barnsley,E08000016,Upper tier local authority,27/03/2020,15,104
+Barnet,E09000003,Upper tier local authority,27/03/2020,54,399
+Barking and Dagenham,E09000002,Upper tier local authority,27/03/2020,12,113
+Yorkshire and The Humber,E12000003,Region,27/03/2020,154,1286
+West Midlands,E12000005,Region,27/03/2020,276,2315
+South West,E12000009,Region,27/03/2020,129,881
+South East,E12000008,Region,27/03/2020,331,2703
+North West,E12000002,Region,27/03/2020,333,2195
+North East,E12000001,Region,27/03/2020,101,572
+London,E12000007,Region,27/03/2020,818,7172
+East of England,E12000006,Region,27/03/2020,244,1603
+East Midlands,E12000004,Region,27/03/2020,136,1225
+England,E92000001,Nation,27/03/2020,2656,20628
+York,E06000014,Upper tier local authority,26/03/2020,1,18
+Worcestershire,E10000034,Upper tier local authority,26/03/2020,23,154
+Wolverhampton,E08000031,Upper tier local authority,26/03/2020,13,160
+Wokingham,E06000041,Upper tier local authority,26/03/2020,5,33
+Wirral,E08000015,Upper tier local authority,26/03/2020,11,55
+Windsor and Maidenhead,E06000040,Upper tier local authority,26/03/2020,5,60
+Wiltshire,E06000054,Upper tier local authority,26/03/2020,7,67
+Wigan,E08000010,Upper tier local authority,26/03/2020,15,46
+Westminster,E09000033,Upper tier local authority,26/03/2020,20,237
+West Sussex,E10000032,Upper tier local authority,26/03/2020,20,152
+West Berkshire,E06000037,Upper tier local authority,26/03/2020,4,44
+Warwickshire,E10000031,Upper tier local authority,26/03/2020,28,177
+Warrington,E06000007,Upper tier local authority,26/03/2020,3,22
+Wandsworth,E09000032,Upper tier local authority,26/03/2020,32,316
+Waltham Forest,E09000031,Upper tier local authority,26/03/2020,34,160
+Walsall,E08000030,Upper tier local authority,26/03/2020,19,141
+Wakefield,E08000036,Upper tier local authority,26/03/2020,14,58
+Trafford,E08000009,Upper tier local authority,26/03/2020,15,85
+Tower Hamlets,E09000030,Upper tier local authority,26/03/2020,34,167
+Torbay,E06000027,Upper tier local authority,26/03/2020,5,27
+Thurrock,E06000034,Upper tier local authority,26/03/2020,10,47
+Telford and Wrekin,E06000020,Upper tier local authority,26/03/2020,6,31
+Tameside,E08000008,Upper tier local authority,26/03/2020,8,60
+Swindon,E06000030,Upper tier local authority,26/03/2020,5,27
+Sutton,E09000029,Upper tier local authority,26/03/2020,13,120
+Surrey,E10000030,Upper tier local authority,26/03/2020,55,434
+Sunderland,E08000024,Upper tier local authority,26/03/2020,11,64
+Suffolk,E10000029,Upper tier local authority,26/03/2020,18,95
+Stoke-on-Trent,E06000021,Upper tier local authority,26/03/2020,5,30
+Stockton-on-Tees,E06000004,Upper tier local authority,26/03/2020,6,25
+Stockport,E08000007,Upper tier local authority,26/03/2020,15,89
+Staffordshire,E10000028,Upper tier local authority,26/03/2020,38,234
+St. Helens,E08000013,Upper tier local authority,26/03/2020,12,52
+Southwark,E09000028,Upper tier local authority,26/03/2020,32,345
+Southend-on-Sea,E06000033,Upper tier local authority,26/03/2020,8,35
+Southampton,E06000045,Upper tier local authority,26/03/2020,15,56
+South Tyneside,E08000023,Upper tier local authority,26/03/2020,2,21
+South Gloucestershire,E06000025,Upper tier local authority,26/03/2020,4,53
+Somerset,E10000027,Upper tier local authority,26/03/2020,7,44
+Solihull,E08000029,Upper tier local authority,26/03/2020,17,78
+Slough,E06000039,Upper tier local authority,26/03/2020,12,91
+Shropshire,E06000051,Upper tier local authority,26/03/2020,14,72
+Sheffield,E08000019,Upper tier local authority,26/03/2020,47,427
+Sefton,E08000014,Upper tier local authority,26/03/2020,12,64
+Sandwell,E08000028,Upper tier local authority,26/03/2020,14,143
+Salford,E08000006,Upper tier local authority,26/03/2020,18,96
+Rutland,E06000017,Upper tier local authority,26/03/2020,1,3
+Rotherham,E08000018,Upper tier local authority,26/03/2020,16,75
+Rochdale,E08000005,Upper tier local authority,26/03/2020,15,65
+Richmond upon Thames,E09000027,Upper tier local authority,26/03/2020,12,103
+Redcar and Cleveland,E06000003,Upper tier local authority,26/03/2020,6,20
+Redbridge,E09000026,Upper tier local authority,26/03/2020,15,136
+Reading,E06000038,Upper tier local authority,26/03/2020,7,43
+Portsmouth,E06000044,Upper tier local authority,26/03/2020,5,70
+Plymouth,E06000026,Upper tier local authority,26/03/2020,9,38
+Peterborough,E06000031,Upper tier local authority,26/03/2020,4,26
+Oxfordshire,E10000025,Upper tier local authority,26/03/2020,26,169
+Oldham,E08000004,Upper tier local authority,26/03/2020,14,86
+Nottinghamshire,E10000024,Upper tier local authority,26/03/2020,36,167
+Nottingham,E06000018,Upper tier local authority,26/03/2020,16,88
+Northumberland,E06000057,Upper tier local authority,26/03/2020,12,48
+Northamptonshire,E10000021,Upper tier local authority,26/03/2020,21,149
+North Yorkshire,E10000023,Upper tier local authority,26/03/2020,12,89
+North Tyneside,E08000022,Upper tier local authority,26/03/2020,6,37
+North Somerset,E06000024,Upper tier local authority,26/03/2020,3,31
+North Lincolnshire,E06000013,Upper tier local authority,26/03/2020,3,13
+North East Lincolnshire,E06000012,Upper tier local authority,26/03/2020,3,18
+Norfolk,E10000020,Upper tier local authority,26/03/2020,26,114
+Newham,E09000025,Upper tier local authority,26/03/2020,38,195
+Newcastle upon Tyne,E08000021,Upper tier local authority,26/03/2020,19,125
+Milton Keynes,E06000042,Upper tier local authority,26/03/2020,7,88
+Middlesbrough,E06000002,Upper tier local authority,26/03/2020,7,24
+Merton,E09000024,Upper tier local authority,26/03/2020,14,173
+Medway,E06000035,Upper tier local authority,26/03/2020,11,83
+Manchester,E08000003,Upper tier local authority,26/03/2020,22,103
+Luton,E06000032,Upper tier local authority,26/03/2020,9,77
+Liverpool,E08000012,Upper tier local authority,26/03/2020,34,173
+Lincolnshire,E10000019,Upper tier local authority,26/03/2020,23,89
+Lewisham,E09000023,Upper tier local authority,26/03/2020,25,213
+Leicestershire,E10000018,Upper tier local authority,26/03/2020,16,160
+Leicester,E06000016,Upper tier local authority,26/03/2020,13,82
+Leeds,E08000035,Upper tier local authority,26/03/2020,21,118
+Lancashire,E10000017,Upper tier local authority,26/03/2020,63,262
+Lambeth,E09000022,Upper tier local authority,26/03/2020,43,358
+Knowsley,E08000011,Upper tier local authority,26/03/2020,7,33
+Kirklees,E08000034,Upper tier local authority,26/03/2020,11,55
+Kingston upon Thames,E09000021,Upper tier local authority,26/03/2020,13,90
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,26/03/2020,3,11
+Kent,E10000016,Upper tier local authority,26/03/2020,55,316
+Kensington and Chelsea,E09000020,Upper tier local authority,26/03/2020,22,149
+Islington,E09000019,Upper tier local authority,26/03/2020,8,143
+Isle of Wight,E06000046,Upper tier local authority,26/03/2020,1,12
+Hounslow,E09000018,Upper tier local authority,26/03/2020,15,160
+Hillingdon,E09000017,Upper tier local authority,26/03/2020,20,168
+Hertfordshire,E10000015,Upper tier local authority,26/03/2020,49,382
+"Herefordshire, County of",E06000019,Upper tier local authority,26/03/2020,1,25
+Havering,E09000016,Upper tier local authority,26/03/2020,11,109
+Hartlepool,E06000001,Upper tier local authority,26/03/2020,1,6
+Harrow,E09000015,Upper tier local authority,26/03/2020,30,249
+Haringey,E09000014,Upper tier local authority,26/03/2020,9,149
+Hampshire,E10000014,Upper tier local authority,26/03/2020,56,429
+Hammersmith and Fulham,E09000013,Upper tier local authority,26/03/2020,24,156
+Halton,E06000006,Upper tier local authority,26/03/2020,2,18
+Hackney,E09000012,Upper tier local authority,26/03/2020,23,163
+Greenwich,E09000011,Upper tier local authority,26/03/2020,11,162
+Gloucestershire,E10000013,Upper tier local authority,26/03/2020,15,118
+Gateshead,E08000037,Upper tier local authority,26/03/2020,10,28
+Essex,E10000012,Upper tier local authority,26/03/2020,62,354
+Enfield,E09000010,Upper tier local authority,26/03/2020,15,193
+East Sussex,E10000011,Upper tier local authority,26/03/2020,14,70
+East Riding of Yorkshire,E06000011,Upper tier local authority,26/03/2020,3,34
+Ealing,E09000009,Upper tier local authority,26/03/2020,30,272
+Dudley,E08000027,Upper tier local authority,26/03/2020,24,133
+Dorset,E06000059,Upper tier local authority,26/03/2020,10,44
+Doncaster,E08000017,Upper tier local authority,26/03/2020,9,55
+Devon,E10000008,Upper tier local authority,26/03/2020,15,93
+Derbyshire,E10000007,Upper tier local authority,26/03/2020,20,236
+Derby,E06000015,Upper tier local authority,26/03/2020,8,115
+Darlington,E06000005,Upper tier local authority,26/03/2020,3,12
+Cumbria,E10000006,Upper tier local authority,26/03/2020,50,324
+Croydon,E09000008,Upper tier local authority,26/03/2020,44,321
+Coventry,E08000026,Upper tier local authority,26/03/2020,19,107
+County Durham,E06000047,Upper tier local authority,26/03/2020,14,61
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,26/03/2020,11,59
+City of London,E09000001,Upper tier local authority,26/03/2020,1,6
+Cheshire West and Chester,E06000050,Upper tier local authority,26/03/2020,5,43
+Cheshire East,E06000049,Upper tier local authority,26/03/2020,10,63
+Central Bedfordshire,E06000056,Upper tier local authority,26/03/2020,8,65
+Camden,E09000007,Upper tier local authority,26/03/2020,28,173
+Cambridgeshire,E10000003,Upper tier local authority,26/03/2020,12,117
+Calderdale,E08000033,Upper tier local authority,26/03/2020,6,20
+Bury,E08000002,Upper tier local authority,26/03/2020,14,52
+Buckinghamshire,E10000002,Upper tier local authority,26/03/2020,10,146
+Bromley,E09000006,Upper tier local authority,26/03/2020,29,245
+"Bristol, City of",E06000023,Upper tier local authority,26/03/2020,14,80
+Brighton and Hove,E06000043,Upper tier local authority,26/03/2020,9,53
+Brent,E09000005,Upper tier local authority,26/03/2020,44,354
+Bradford,E08000032,Upper tier local authority,26/03/2020,10,52
+Bracknell Forest,E06000036,Upper tier local authority,26/03/2020,3,23
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,26/03/2020,9,36
+Bolton,E08000001,Upper tier local authority,26/03/2020,6,42
+Blackpool,E06000009,Upper tier local authority,26/03/2020,4,15
+Blackburn with Darwen,E06000008,Upper tier local authority,26/03/2020,2,14
+Birmingham,E08000025,Upper tier local authority,26/03/2020,94,554
+Bexley,E09000004,Upper tier local authority,26/03/2020,11,123
+Bedford,E06000055,Upper tier local authority,26/03/2020,9,47
+Bath and North East Somerset,E06000022,Upper tier local authority,26/03/2020,5,35
+Barnsley,E08000016,Upper tier local authority,26/03/2020,21,89
+Barnet,E09000003,Upper tier local authority,26/03/2020,55,345
+Barking and Dagenham,E09000002,Upper tier local authority,26/03/2020,7,101
+Yorkshire and The Humber,E12000003,Region,26/03/2020,180,1132
+West Midlands,E12000005,Region,26/03/2020,315,2039
+South West,E12000009,Region,26/03/2020,119,752
+South East,E12000008,Region,26/03/2020,320,2372
+North West,E12000002,Region,26/03/2020,357,1862
+North East,E12000001,Region,26/03/2020,97,471
+London,E12000007,Region,26/03/2020,762,6354
+East of England,E12000006,Region,26/03/2020,215,1359
+East Midlands,E12000004,Region,26/03/2020,154,1089
+England,E92000001,Nation,26/03/2020,2614,17972
+York,E06000014,Upper tier local authority,25/03/2020,1,17
+Worcestershire,E10000034,Upper tier local authority,25/03/2020,22,131
+Wolverhampton,E08000031,Upper tier local authority,25/03/2020,11,147
+Wokingham,E06000041,Upper tier local authority,25/03/2020,2,28
+Wirral,E08000015,Upper tier local authority,25/03/2020,6,44
+Windsor and Maidenhead,E06000040,Upper tier local authority,25/03/2020,9,55
+Wiltshire,E06000054,Upper tier local authority,25/03/2020,5,60
+Wigan,E08000010,Upper tier local authority,25/03/2020,6,31
+Westminster,E09000033,Upper tier local authority,25/03/2020,23,217
+West Sussex,E10000032,Upper tier local authority,25/03/2020,23,132
+West Berkshire,E06000037,Upper tier local authority,25/03/2020,7,40
+Warwickshire,E10000031,Upper tier local authority,25/03/2020,14,149
+Warrington,E06000007,Upper tier local authority,25/03/2020,1,19
+Wandsworth,E09000032,Upper tier local authority,25/03/2020,44,284
+Waltham Forest,E09000031,Upper tier local authority,25/03/2020,24,126
+Walsall,E08000030,Upper tier local authority,25/03/2020,16,122
+Wakefield,E08000036,Upper tier local authority,25/03/2020,11,44
+Trafford,E08000009,Upper tier local authority,25/03/2020,10,70
+Tower Hamlets,E09000030,Upper tier local authority,25/03/2020,27,133
+Torbay,E06000027,Upper tier local authority,25/03/2020,1,22
+Thurrock,E06000034,Upper tier local authority,25/03/2020,4,37
+Telford and Wrekin,E06000020,Upper tier local authority,25/03/2020,3,25
+Tameside,E08000008,Upper tier local authority,25/03/2020,4,52
+Swindon,E06000030,Upper tier local authority,25/03/2020,3,22
+Sutton,E09000029,Upper tier local authority,25/03/2020,12,107
+Surrey,E10000030,Upper tier local authority,25/03/2020,54,379
+Sunderland,E08000024,Upper tier local authority,25/03/2020,10,53
+Suffolk,E10000029,Upper tier local authority,25/03/2020,5,77
+Stoke-on-Trent,E06000021,Upper tier local authority,25/03/2020,5,25
+Stockton-on-Tees,E06000004,Upper tier local authority,25/03/2020,2,19
+Stockport,E08000007,Upper tier local authority,25/03/2020,9,74
+Staffordshire,E10000028,Upper tier local authority,25/03/2020,38,196
+St. Helens,E08000013,Upper tier local authority,25/03/2020,11,40
+Southwark,E09000028,Upper tier local authority,25/03/2020,29,313
+Southend-on-Sea,E06000033,Upper tier local authority,25/03/2020,2,27
+Southampton,E06000045,Upper tier local authority,25/03/2020,6,41
+South Tyneside,E08000023,Upper tier local authority,25/03/2020,4,19
+South Gloucestershire,E06000025,Upper tier local authority,25/03/2020,13,49
+Somerset,E10000027,Upper tier local authority,25/03/2020,5,37
+Solihull,E08000029,Upper tier local authority,25/03/2020,16,61
+Slough,E06000039,Upper tier local authority,25/03/2020,6,79
+Shropshire,E06000051,Upper tier local authority,25/03/2020,4,58
+Sheffield,E08000019,Upper tier local authority,25/03/2020,48,380
+Sefton,E08000014,Upper tier local authority,25/03/2020,18,52
+Sandwell,E08000028,Upper tier local authority,25/03/2020,17,129
+Salford,E08000006,Upper tier local authority,25/03/2020,6,78
+Rotherham,E08000018,Upper tier local authority,25/03/2020,9,59
+Rochdale,E08000005,Upper tier local authority,25/03/2020,7,50
+Richmond upon Thames,E09000027,Upper tier local authority,25/03/2020,15,91
+Redcar and Cleveland,E06000003,Upper tier local authority,25/03/2020,3,14
+Redbridge,E09000026,Upper tier local authority,25/03/2020,15,121
+Reading,E06000038,Upper tier local authority,25/03/2020,8,36
+Portsmouth,E06000044,Upper tier local authority,25/03/2020,14,65
+Plymouth,E06000026,Upper tier local authority,25/03/2020,3,29
+Peterborough,E06000031,Upper tier local authority,25/03/2020,1,22
+Oxfordshire,E10000025,Upper tier local authority,25/03/2020,15,143
+Oldham,E08000004,Upper tier local authority,25/03/2020,14,72
+Nottinghamshire,E10000024,Upper tier local authority,25/03/2020,17,131
+Nottingham,E06000018,Upper tier local authority,25/03/2020,9,72
+Northumberland,E06000057,Upper tier local authority,25/03/2020,8,36
+Northamptonshire,E10000021,Upper tier local authority,25/03/2020,30,128
+North Yorkshire,E10000023,Upper tier local authority,25/03/2020,12,77
+North Tyneside,E08000022,Upper tier local authority,25/03/2020,4,31
+North Somerset,E06000024,Upper tier local authority,25/03/2020,7,28
+North Lincolnshire,E06000013,Upper tier local authority,25/03/2020,3,10
+North East Lincolnshire,E06000012,Upper tier local authority,25/03/2020,5,15
+Norfolk,E10000020,Upper tier local authority,25/03/2020,12,88
+Newham,E09000025,Upper tier local authority,25/03/2020,33,157
+Newcastle upon Tyne,E08000021,Upper tier local authority,25/03/2020,19,106
+Milton Keynes,E06000042,Upper tier local authority,25/03/2020,10,81
+Middlesbrough,E06000002,Upper tier local authority,25/03/2020,7,17
+Merton,E09000024,Upper tier local authority,25/03/2020,23,159
+Medway,E06000035,Upper tier local authority,25/03/2020,10,72
+Manchester,E08000003,Upper tier local authority,25/03/2020,15,81
+Luton,E06000032,Upper tier local authority,25/03/2020,11,68
+Liverpool,E08000012,Upper tier local authority,25/03/2020,24,139
+Lincolnshire,E10000019,Upper tier local authority,25/03/2020,11,66
+Lewisham,E09000023,Upper tier local authority,25/03/2020,24,188
+Leicestershire,E10000018,Upper tier local authority,25/03/2020,13,144
+Leicester,E06000016,Upper tier local authority,25/03/2020,5,69
+Leeds,E08000035,Upper tier local authority,25/03/2020,11,97
+Lancashire,E10000017,Upper tier local authority,25/03/2020,38,199
+Lambeth,E09000022,Upper tier local authority,25/03/2020,36,315
+Knowsley,E08000011,Upper tier local authority,25/03/2020,10,26
+Kirklees,E08000034,Upper tier local authority,25/03/2020,10,44
+Kingston upon Thames,E09000021,Upper tier local authority,25/03/2020,13,77
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,25/03/2020,3,8
+Kent,E10000016,Upper tier local authority,25/03/2020,54,261
+Kensington and Chelsea,E09000020,Upper tier local authority,25/03/2020,14,127
+Islington,E09000019,Upper tier local authority,25/03/2020,11,135
+Isle of Wight,E06000046,Upper tier local authority,25/03/2020,1,11
+Hounslow,E09000018,Upper tier local authority,25/03/2020,17,145
+Hillingdon,E09000017,Upper tier local authority,25/03/2020,17,148
+Hertfordshire,E10000015,Upper tier local authority,25/03/2020,56,333
+Havering,E09000016,Upper tier local authority,25/03/2020,14,98
+Hartlepool,E06000001,Upper tier local authority,25/03/2020,2,5
+Harrow,E09000015,Upper tier local authority,25/03/2020,28,219
+Haringey,E09000014,Upper tier local authority,25/03/2020,12,140
+Hampshire,E10000014,Upper tier local authority,25/03/2020,43,373
+Hammersmith and Fulham,E09000013,Upper tier local authority,25/03/2020,18,132
+Halton,E06000006,Upper tier local authority,25/03/2020,3,16
+Hackney,E09000012,Upper tier local authority,25/03/2020,16,140
+Greenwich,E09000011,Upper tier local authority,25/03/2020,19,151
+Gloucestershire,E10000013,Upper tier local authority,25/03/2020,24,103
+Gateshead,E08000037,Upper tier local authority,25/03/2020,1,18
+Essex,E10000012,Upper tier local authority,25/03/2020,68,292
+Enfield,E09000010,Upper tier local authority,25/03/2020,21,178
+East Sussex,E10000011,Upper tier local authority,25/03/2020,11,56
+East Riding of Yorkshire,E06000011,Upper tier local authority,25/03/2020,6,31
+Ealing,E09000009,Upper tier local authority,25/03/2020,36,242
+Dudley,E08000027,Upper tier local authority,25/03/2020,17,109
+Dorset,E06000059,Upper tier local authority,25/03/2020,3,34
+Doncaster,E08000017,Upper tier local authority,25/03/2020,11,46
+Devon,E10000008,Upper tier local authority,25/03/2020,15,78
+Derbyshire,E10000007,Upper tier local authority,25/03/2020,20,216
+Derby,E06000015,Upper tier local authority,25/03/2020,11,107
+Darlington,E06000005,Upper tier local authority,25/03/2020,3,9
+Cumbria,E10000006,Upper tier local authority,25/03/2020,47,274
+Croydon,E09000008,Upper tier local authority,25/03/2020,43,277
+Coventry,E08000026,Upper tier local authority,25/03/2020,16,88
+County Durham,E06000047,Upper tier local authority,25/03/2020,13,47
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,25/03/2020,4,48
+Cheshire West and Chester,E06000050,Upper tier local authority,25/03/2020,5,38
+Cheshire East,E06000049,Upper tier local authority,25/03/2020,12,53
+Central Bedfordshire,E06000056,Upper tier local authority,25/03/2020,6,57
+Camden,E09000007,Upper tier local authority,25/03/2020,22,145
+Cambridgeshire,E10000003,Upper tier local authority,25/03/2020,17,105
+Calderdale,E08000033,Upper tier local authority,25/03/2020,4,14
+Bury,E08000002,Upper tier local authority,25/03/2020,3,38
+Buckinghamshire,E10000002,Upper tier local authority,25/03/2020,23,136
+Bromley,E09000006,Upper tier local authority,25/03/2020,25,216
+"Bristol, City of",E06000023,Upper tier local authority,25/03/2020,12,66
+Brighton and Hove,E06000043,Upper tier local authority,25/03/2020,6,44
+Brent,E09000005,Upper tier local authority,25/03/2020,46,310
+Bradford,E08000032,Upper tier local authority,25/03/2020,7,42
+Bracknell Forest,E06000036,Upper tier local authority,25/03/2020,2,20
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,25/03/2020,5,27
+Bolton,E08000001,Upper tier local authority,25/03/2020,5,36
+Blackpool,E06000009,Upper tier local authority,25/03/2020,1,11
+Blackburn with Darwen,E06000008,Upper tier local authority,25/03/2020,1,12
+Birmingham,E08000025,Upper tier local authority,25/03/2020,59,460
+Bexley,E09000004,Upper tier local authority,25/03/2020,19,112
+Bedford,E06000055,Upper tier local authority,25/03/2020,6,38
+Bath and North East Somerset,E06000022,Upper tier local authority,25/03/2020,4,30
+Barnsley,E08000016,Upper tier local authority,25/03/2020,10,68
+Barnet,E09000003,Upper tier local authority,25/03/2020,45,290
+Barking and Dagenham,E09000002,Upper tier local authority,25/03/2020,11,94
+Yorkshire and The Humber,E12000003,Region,25/03/2020,151,952
+West Midlands,E12000005,Region,25/03/2020,238,1724
+South West,E12000009,Region,25/03/2020,104,633
+South East,E12000008,Region,25/03/2020,304,2052
+North West,E12000002,Region,25/03/2020,256,1505
+North East,E12000001,Region,25/03/2020,76,374
+London,E12000007,Region,25/03/2020,752,5592
+East of England,E12000006,Region,25/03/2020,188,1144
+East Midlands,E12000004,Region,25/03/2020,116,935
+England,E92000001,Nation,25/03/2020,2264,15358
+York,E06000014,Upper tier local authority,24/03/2020,2,16
+Worcestershire,E10000034,Upper tier local authority,24/03/2020,17,109
+Wolverhampton,E08000031,Upper tier local authority,24/03/2020,24,136
+Wokingham,E06000041,Upper tier local authority,24/03/2020,1,26
+Wirral,E08000015,Upper tier local authority,24/03/2020,10,38
+Windsor and Maidenhead,E06000040,Upper tier local authority,24/03/2020,2,46
+Wiltshire,E06000054,Upper tier local authority,24/03/2020,8,55
+Wigan,E08000010,Upper tier local authority,24/03/2020,6,25
+Westminster,E09000033,Upper tier local authority,24/03/2020,15,194
+West Sussex,E10000032,Upper tier local authority,24/03/2020,20,109
+West Berkshire,E06000037,Upper tier local authority,24/03/2020,3,33
+Warwickshire,E10000031,Upper tier local authority,24/03/2020,20,135
+Warrington,E06000007,Upper tier local authority,24/03/2020,3,18
+Wandsworth,E09000032,Upper tier local authority,24/03/2020,28,240
+Waltham Forest,E09000031,Upper tier local authority,24/03/2020,11,102
+Walsall,E08000030,Upper tier local authority,24/03/2020,16,106
+Wakefield,E08000036,Upper tier local authority,24/03/2020,7,33
+Trafford,E08000009,Upper tier local authority,24/03/2020,10,60
+Tower Hamlets,E09000030,Upper tier local authority,24/03/2020,17,106
+Torbay,E06000027,Upper tier local authority,24/03/2020,2,21
+Thurrock,E06000034,Upper tier local authority,24/03/2020,2,33
+Telford and Wrekin,E06000020,Upper tier local authority,24/03/2020,3,22
+Tameside,E08000008,Upper tier local authority,24/03/2020,5,48
+Swindon,E06000030,Upper tier local authority,24/03/2020,4,19
+Sutton,E09000029,Upper tier local authority,24/03/2020,17,95
+Surrey,E10000030,Upper tier local authority,24/03/2020,41,325
+Sunderland,E08000024,Upper tier local authority,24/03/2020,18,43
+Suffolk,E10000029,Upper tier local authority,24/03/2020,12,72
+Stoke-on-Trent,E06000021,Upper tier local authority,24/03/2020,5,20
+Stockton-on-Tees,E06000004,Upper tier local authority,24/03/2020,2,17
+Stockport,E08000007,Upper tier local authority,24/03/2020,10,65
+Staffordshire,E10000028,Upper tier local authority,24/03/2020,21,158
+St. Helens,E08000013,Upper tier local authority,24/03/2020,11,29
+Southwark,E09000028,Upper tier local authority,24/03/2020,31,284
+Southend-on-Sea,E06000033,Upper tier local authority,24/03/2020,6,25
+Southampton,E06000045,Upper tier local authority,24/03/2020,2,35
+South Tyneside,E08000023,Upper tier local authority,24/03/2020,5,15
+South Gloucestershire,E06000025,Upper tier local authority,24/03/2020,5,36
+Somerset,E10000027,Upper tier local authority,24/03/2020,4,32
+Solihull,E08000029,Upper tier local authority,24/03/2020,15,45
+Slough,E06000039,Upper tier local authority,24/03/2020,7,73
+Shropshire,E06000051,Upper tier local authority,24/03/2020,10,54
+Sheffield,E08000019,Upper tier local authority,24/03/2020,59,332
+Sefton,E08000014,Upper tier local authority,24/03/2020,7,34
+Sandwell,E08000028,Upper tier local authority,24/03/2020,17,112
+Salford,E08000006,Upper tier local authority,24/03/2020,16,72
+Rutland,E06000017,Upper tier local authority,24/03/2020,1,2
+Rotherham,E08000018,Upper tier local authority,24/03/2020,12,50
+Rochdale,E08000005,Upper tier local authority,24/03/2020,7,43
+Richmond upon Thames,E09000027,Upper tier local authority,24/03/2020,13,76
+Redcar and Cleveland,E06000003,Upper tier local authority,24/03/2020,2,11
+Redbridge,E09000026,Upper tier local authority,24/03/2020,11,106
+Reading,E06000038,Upper tier local authority,24/03/2020,2,28
+Portsmouth,E06000044,Upper tier local authority,24/03/2020,6,51
+Plymouth,E06000026,Upper tier local authority,24/03/2020,7,26
+Peterborough,E06000031,Upper tier local authority,24/03/2020,2,21
+Oxfordshire,E10000025,Upper tier local authority,24/03/2020,22,128
+Oldham,E08000004,Upper tier local authority,24/03/2020,12,58
+Nottinghamshire,E10000024,Upper tier local authority,24/03/2020,17,114
+Nottingham,E06000018,Upper tier local authority,24/03/2020,7,63
+Northumberland,E06000057,Upper tier local authority,24/03/2020,8,28
+Northamptonshire,E10000021,Upper tier local authority,24/03/2020,16,98
+North Yorkshire,E10000023,Upper tier local authority,24/03/2020,9,65
+North Tyneside,E08000022,Upper tier local authority,24/03/2020,4,27
+North Somerset,E06000024,Upper tier local authority,24/03/2020,1,21
+North Lincolnshire,E06000013,Upper tier local authority,24/03/2020,1,7
+North East Lincolnshire,E06000012,Upper tier local authority,24/03/2020,4,10
+Norfolk,E10000020,Upper tier local authority,24/03/2020,14,76
+Newham,E09000025,Upper tier local authority,24/03/2020,12,124
+Newcastle upon Tyne,E08000021,Upper tier local authority,24/03/2020,20,87
+Milton Keynes,E06000042,Upper tier local authority,24/03/2020,14,71
+Middlesbrough,E06000002,Upper tier local authority,24/03/2020,2,10
+Merton,E09000024,Upper tier local authority,24/03/2020,23,136
+Medway,E06000035,Upper tier local authority,24/03/2020,16,62
+Manchester,E08000003,Upper tier local authority,24/03/2020,8,66
+Luton,E06000032,Upper tier local authority,24/03/2020,15,57
+Liverpool,E08000012,Upper tier local authority,24/03/2020,25,115
+Lincolnshire,E10000019,Upper tier local authority,24/03/2020,13,55
+Lewisham,E09000023,Upper tier local authority,24/03/2020,15,164
+Leicestershire,E10000018,Upper tier local authority,24/03/2020,21,131
+Leicester,E06000016,Upper tier local authority,24/03/2020,20,64
+Leeds,E08000035,Upper tier local authority,24/03/2020,18,86
+Lancashire,E10000017,Upper tier local authority,24/03/2020,41,161
+Lambeth,E09000022,Upper tier local authority,24/03/2020,26,279
+Knowsley,E08000011,Upper tier local authority,24/03/2020,4,16
+Kirklees,E08000034,Upper tier local authority,24/03/2020,6,34
+Kingston upon Thames,E09000021,Upper tier local authority,24/03/2020,16,64
+"Kingston upon Hull, City of",E06000010,Upper tier local authority,24/03/2020,1,5
+Kent,E10000016,Upper tier local authority,24/03/2020,37,207
+Kensington and Chelsea,E09000020,Upper tier local authority,24/03/2020,7,113
+Islington,E09000019,Upper tier local authority,24/03/2020,20,124
+Hounslow,E09000018,Upper tier local authority,24/03/2020,15,128
+Hillingdon,E09000017,Upper tier local authority,24/03/2020,18,131
+Hertfordshire,E10000015,Upper tier local authority,24/03/2020,45,277
+"Herefordshire, County of",E06000019,Upper tier local authority,24/03/2020,3,24
+Havering,E09000016,Upper tier local authority,24/03/2020,16,84
+Harrow,E09000015,Upper tier local authority,24/03/2020,26,191
+Haringey,E09000014,Upper tier local authority,24/03/2020,19,128
+Hampshire,E10000014,Upper tier local authority,24/03/2020,34,330
+Hammersmith and Fulham,E09000013,Upper tier local authority,24/03/2020,14,114
+Halton,E06000006,Upper tier local authority,24/03/2020,5,13
+Hackney,E09000012,Upper tier local authority,24/03/2020,20,124
+Greenwich,E09000011,Upper tier local authority,24/03/2020,17,132
+Gloucestershire,E10000013,Upper tier local authority,24/03/2020,14,79
+Gateshead,E08000037,Upper tier local authority,24/03/2020,7,17
+Essex,E10000012,Upper tier local authority,24/03/2020,37,224
+Enfield,E09000010,Upper tier local authority,24/03/2020,24,157
+East Sussex,E10000011,Upper tier local authority,24/03/2020,9,45
+East Riding of Yorkshire,E06000011,Upper tier local authority,24/03/2020,2,25
+Ealing,E09000009,Upper tier local authority,24/03/2020,34,206
+Dudley,E08000027,Upper tier local authority,24/03/2020,13,92
+Dorset,E06000059,Upper tier local authority,24/03/2020,2,31
+Doncaster,E08000017,Upper tier local authority,24/03/2020,9,35
+Devon,E10000008,Upper tier local authority,24/03/2020,6,63
+Derbyshire,E10000007,Upper tier local authority,24/03/2020,21,196
+Derby,E06000015,Upper tier local authority,24/03/2020,21,96
+Darlington,E06000005,Upper tier local authority,24/03/2020,2,6
+Cumbria,E10000006,Upper tier local authority,24/03/2020,45,227
+Croydon,E09000008,Upper tier local authority,24/03/2020,27,234
+Coventry,E08000026,Upper tier local authority,24/03/2020,19,72
+County Durham,E06000047,Upper tier local authority,24/03/2020,6,34
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,24/03/2020,3,44
+Cheshire West and Chester,E06000050,Upper tier local authority,24/03/2020,4,33
+Cheshire East,E06000049,Upper tier local authority,24/03/2020,7,41
+Central Bedfordshire,E06000056,Upper tier local authority,24/03/2020,9,51
+Camden,E09000007,Upper tier local authority,24/03/2020,20,123
+Cambridgeshire,E10000003,Upper tier local authority,24/03/2020,18,88
+Calderdale,E08000033,Upper tier local authority,24/03/2020,1,10
+Bury,E08000002,Upper tier local authority,24/03/2020,8,35
+Buckinghamshire,E10000002,Upper tier local authority,24/03/2020,9,113
+Bromley,E09000006,Upper tier local authority,24/03/2020,30,191
+"Bristol, City of",E06000023,Upper tier local authority,24/03/2020,4,54
+Brighton and Hove,E06000043,Upper tier local authority,24/03/2020,7,38
+Brent,E09000005,Upper tier local authority,24/03/2020,28,264
+Bradford,E08000032,Upper tier local authority,24/03/2020,9,35
+Bracknell Forest,E06000036,Upper tier local authority,24/03/2020,1,18
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,24/03/2020,5,22
+Bolton,E08000001,Upper tier local authority,24/03/2020,5,31
+Blackpool,E06000009,Upper tier local authority,24/03/2020,1,10
+Blackburn with Darwen,E06000008,Upper tier local authority,24/03/2020,4,11
+Birmingham,E08000025,Upper tier local authority,24/03/2020,67,401
+Bexley,E09000004,Upper tier local authority,24/03/2020,13,93
+Bedford,E06000055,Upper tier local authority,24/03/2020,8,32
+Bath and North East Somerset,E06000022,Upper tier local authority,24/03/2020,3,26
+Barnsley,E08000016,Upper tier local authority,24/03/2020,16,58
+Barnet,E09000003,Upper tier local authority,24/03/2020,39,245
+Barking and Dagenham,E09000002,Upper tier local authority,24/03/2020,12,83
+Yorkshire and The Humber,E12000003,Region,24/03/2020,156,801
+West Midlands,E12000005,Region,24/03/2020,250,1486
+South West,E12000009,Region,24/03/2020,68,529
+South East,E12000008,Region,24/03/2020,233,1748
+North West,E12000002,Region,24/03/2020,254,1249
+North East,E12000001,Region,24/03/2020,76,298
+London,E12000007,Region,24/03/2020,634,4840
+East of England,E12000006,Region,24/03/2020,168,956
+East Midlands,E12000004,Region,24/03/2020,137,819
+England,E92000001,Nation,24/03/2020,2020,13094
+York,E06000014,Upper tier local authority,23/03/2020,1,14
+Worcestershire,E10000034,Upper tier local authority,23/03/2020,14,92
+Wolverhampton,E08000031,Upper tier local authority,23/03/2020,9,112
+Wokingham,E06000041,Upper tier local authority,23/03/2020,1,25
+Wirral,E08000015,Upper tier local authority,23/03/2020,7,28
+Windsor and Maidenhead,E06000040,Upper tier local authority,23/03/2020,7,44
+Wiltshire,E06000054,Upper tier local authority,23/03/2020,6,47
+Wigan,E08000010,Upper tier local authority,23/03/2020,3,19
+Westminster,E09000033,Upper tier local authority,23/03/2020,22,179
+West Sussex,E10000032,Upper tier local authority,23/03/2020,14,89
+West Berkshire,E06000037,Upper tier local authority,23/03/2020,8,30
+Warwickshire,E10000031,Upper tier local authority,23/03/2020,28,115
+Warrington,E06000007,Upper tier local authority,23/03/2020,5,15
+Wandsworth,E09000032,Upper tier local authority,23/03/2020,27,212
+Waltham Forest,E09000031,Upper tier local authority,23/03/2020,21,91
+Walsall,E08000030,Upper tier local authority,23/03/2020,19,90
+Wakefield,E08000036,Upper tier local authority,23/03/2020,7,26
+Trafford,E08000009,Upper tier local authority,23/03/2020,5,50
+Tower Hamlets,E09000030,Upper tier local authority,23/03/2020,11,89
+Torbay,E06000027,Upper tier local authority,23/03/2020,2,19
+Thurrock,E06000034,Upper tier local authority,23/03/2020,9,31
+Telford and Wrekin,E06000020,Upper tier local authority,23/03/2020,5,19
+Tameside,E08000008,Upper tier local authority,23/03/2020,3,43
+Swindon,E06000030,Upper tier local authority,23/03/2020,3,15
+Sutton,E09000029,Upper tier local authority,23/03/2020,25,78
+Surrey,E10000030,Upper tier local authority,23/03/2020,50,284
+Sunderland,E08000024,Upper tier local authority,23/03/2020,6,25
+Suffolk,E10000029,Upper tier local authority,23/03/2020,22,60
+Stoke-on-Trent,E06000021,Upper tier local authority,23/03/2020,4,15
+Stockton-on-Tees,E06000004,Upper tier local authority,23/03/2020,3,15
+Stockport,E08000007,Upper tier local authority,23/03/2020,6,55
+Staffordshire,E10000028,Upper tier local authority,23/03/2020,26,137
+St. Helens,E08000013,Upper tier local authority,23/03/2020,4,18
+Southwark,E09000028,Upper tier local authority,23/03/2020,44,253
+Southend-on-Sea,E06000033,Upper tier local authority,23/03/2020,6,19
+Southampton,E06000045,Upper tier local authority,23/03/2020,6,33
+South Tyneside,E08000023,Upper tier local authority,23/03/2020,2,10
+South Gloucestershire,E06000025,Upper tier local authority,23/03/2020,8,31
+Somerset,E10000027,Upper tier local authority,23/03/2020,4,28
+Solihull,E08000029,Upper tier local authority,23/03/2020,9,30
+Slough,E06000039,Upper tier local authority,23/03/2020,10,66
+Shropshire,E06000051,Upper tier local authority,23/03/2020,4,44
+Sheffield,E08000019,Upper tier local authority,23/03/2020,61,273
+Sefton,E08000014,Upper tier local authority,23/03/2020,7,27
+Sandwell,E08000028,Upper tier local authority,23/03/2020,22,95
+Salford,E08000006,Upper tier local authority,23/03/2020,11,56
+Rutland,E06000017,Upper tier local authority,23/03/2020,1,1
+Rotherham,E08000018,Upper tier local authority,23/03/2020,10,38
+Rochdale,E08000005,Upper tier local authority,23/03/2020,10,36
+Richmond upon Thames,E09000027,Upper tier local authority,23/03/2020,16,63
+Redcar and Cleveland,E06000003,Upper tier local authority,23/03/2020,2,9
+Redbridge,E09000026,Upper tier local authority,23/03/2020,17,95
+Reading,E06000038,Upper tier local authority,23/03/2020,4,26
+Portsmouth,E06000044,Upper tier local authority,23/03/2020,9,45
+Plymouth,E06000026,Upper tier local authority,23/03/2020,3,19
+Peterborough,E06000031,Upper tier local authority,23/03/2020,3,19
+Oxfordshire,E10000025,Upper tier local authority,23/03/2020,22,106
+Oldham,E08000004,Upper tier local authority,23/03/2020,6,46
+Nottinghamshire,E10000024,Upper tier local authority,23/03/2020,8,97
+Nottingham,E06000018,Upper tier local authority,23/03/2020,5,56
+Northumberland,E06000057,Upper tier local authority,23/03/2020,7,20
+Northamptonshire,E10000021,Upper tier local authority,23/03/2020,17,82
+North Yorkshire,E10000023,Upper tier local authority,23/03/2020,13,56
+North Tyneside,E08000022,Upper tier local authority,23/03/2020,4,23
+North Lincolnshire,E06000013,Upper tier local authority,23/03/2020,1,6
+North East Lincolnshire,E06000012,Upper tier local authority,23/03/2020,2,6
+Norfolk,E10000020,Upper tier local authority,23/03/2020,12,62
+Newham,E09000025,Upper tier local authority,23/03/2020,26,112
+Newcastle upon Tyne,E08000021,Upper tier local authority,23/03/2020,18,67
+Milton Keynes,E06000042,Upper tier local authority,23/03/2020,22,57
+Middlesbrough,E06000002,Upper tier local authority,23/03/2020,1,8
+Merton,E09000024,Upper tier local authority,23/03/2020,15,113
+Medway,E06000035,Upper tier local authority,23/03/2020,11,46
+Manchester,E08000003,Upper tier local authority,23/03/2020,12,58
+Luton,E06000032,Upper tier local authority,23/03/2020,8,42
+Liverpool,E08000012,Upper tier local authority,23/03/2020,18,90
+Lincolnshire,E10000019,Upper tier local authority,23/03/2020,8,42
+Lewisham,E09000023,Upper tier local authority,23/03/2020,27,149
+Leicestershire,E10000018,Upper tier local authority,23/03/2020,18,110
+Leicester,E06000016,Upper tier local authority,23/03/2020,11,44
+Leeds,E08000035,Upper tier local authority,23/03/2020,16,68
+Lancashire,E10000017,Upper tier local authority,23/03/2020,35,120
+Lambeth,E09000022,Upper tier local authority,23/03/2020,28,253
+Knowsley,E08000011,Upper tier local authority,23/03/2020,1,12
+Kirklees,E08000034,Upper tier local authority,23/03/2020,4,28
+Kingston upon Thames,E09000021,Upper tier local authority,23/03/2020,11,48
+Kent,E10000016,Upper tier local authority,23/03/2020,48,170
+Kensington and Chelsea,E09000020,Upper tier local authority,23/03/2020,8,106
+Islington,E09000019,Upper tier local authority,23/03/2020,23,104
+Isle of Wight,E06000046,Upper tier local authority,23/03/2020,2,10
+Hounslow,E09000018,Upper tier local authority,23/03/2020,17,113
+Hillingdon,E09000017,Upper tier local authority,23/03/2020,17,113
+Hertfordshire,E10000015,Upper tier local authority,23/03/2020,58,232
+"Herefordshire, County of",E06000019,Upper tier local authority,23/03/2020,6,21
+Havering,E09000016,Upper tier local authority,23/03/2020,10,68
+Harrow,E09000015,Upper tier local authority,23/03/2020,19,165
+Haringey,E09000014,Upper tier local authority,23/03/2020,15,109
+Hampshire,E10000014,Upper tier local authority,23/03/2020,49,296
+Hammersmith and Fulham,E09000013,Upper tier local authority,23/03/2020,14,100
+Hackney,E09000012,Upper tier local authority,23/03/2020,20,104
+Greenwich,E09000011,Upper tier local authority,23/03/2020,13,115
+Gloucestershire,E10000013,Upper tier local authority,23/03/2020,7,65
+Gateshead,E08000037,Upper tier local authority,23/03/2020,5,10
+Essex,E10000012,Upper tier local authority,23/03/2020,51,187
+Enfield,E09000010,Upper tier local authority,23/03/2020,21,133
+East Sussex,E10000011,Upper tier local authority,23/03/2020,4,36
+East Riding of Yorkshire,E06000011,Upper tier local authority,23/03/2020,5,23
+Ealing,E09000009,Upper tier local authority,23/03/2020,29,172
+Dudley,E08000027,Upper tier local authority,23/03/2020,17,79
+Dorset,E06000059,Upper tier local authority,23/03/2020,4,29
+Doncaster,E08000017,Upper tier local authority,23/03/2020,3,26
+Devon,E10000008,Upper tier local authority,23/03/2020,5,57
+Derbyshire,E10000007,Upper tier local authority,23/03/2020,32,175
+Derby,E06000015,Upper tier local authority,23/03/2020,16,75
+Darlington,E06000005,Upper tier local authority,23/03/2020,1,4
+Cumbria,E10000006,Upper tier local authority,23/03/2020,27,182
+Croydon,E09000008,Upper tier local authority,23/03/2020,36,207
+Coventry,E08000026,Upper tier local authority,23/03/2020,11,53
+County Durham,E06000047,Upper tier local authority,23/03/2020,10,28
+Cornwall and Isles of Scilly,E06000052,Upper tier local authority,23/03/2020,6,41
+Cheshire West and Chester,E06000050,Upper tier local authority,23/03/2020,5,29
+Cheshire East,E06000049,Upper tier local authority,23/03/2020,2,34
+Central Bedfordshire,E06000056,Upper tier local authority,23/03/2020,10,42
+Camden,E09000007,Upper tier local authority,23/03/2020,15,103
+Cambridgeshire,E10000003,Upper tier local authority,23/03/2020,14,70
+Calderdale,E08000033,Upper tier local authority,23/03/2020,2,9
+Bury,E08000002,Upper tier local authority,23/03/2020,3,27
+Buckinghamshire,E10000002,Upper tier local authority,23/03/2020,8,104
+Bromley,E09000006,Upper tier local authority,23/03/2020,35,161
+"Bristol, City of",E06000023,Upper tier local authority,23/03/2020,9,50
+Brighton and Hove,E06000043,Upper tier local authority,23/03/2020,4,31
+Brent,E09000005,Upper tier local authority,23/03/2020,46,236
+Bradford,E08000032,Upper tier local authority,23/03/2020,6,26
+Bracknell Forest,E06000036,Upper tier local authority,23/03/2020,2,17
+"Bournemouth, Christchurch and Poole",E06000058,Upper tier local authority,23/03/2020,1,17
+Bolton,E08000001,Upper tier local authority,23/03/2020,2,26
+Blackpool,E06000009,Upper tier local authority,23/03/2020,1,9
+Blackburn with Darwen,E06000008,Upper tier local authority,23/03/2020,3,7
+Birmingham,E08000025,Upper tier local authority,23/03/2020,65,334
+Bexley,E09000004,Upper tier local authority,23/03/2020,17,80
+Bedford,E06000055,Upper tier local authority,23/03/2020,11,24
+Bath and North East Somerset,E06000022,Upper tier local authority,23/03/2020,4,23
+Barnsley,E08000016,Upper tier local authority,23/03/2020,13,42
+Barnet,E09000003,Upper tier local authority,23/03/2020,30,206
+Barking and Dagenham,E09000002,Upper tier local authority,23/03/2020,11,71
+Yorkshire and The Humber,E12000003,Region,23/03/2020,144,645
+West Midlands,E12000005,Region,23/03/2020,239,1236
+South West,E12000009,Region,23/03/2020,62,461
+South East,E12000008,Region,23/03/2020,281,1515
+North West,E12000002,Region,23/03/2020,176,995
+North East,E12000001,Region,23/03/2020,59,222
+London,E12000007,Region,23/03/2020,686,4206
+East of England,E12000006,Region,23/03/2020,204,788
+East Midlands,E12000004,Region,23/03/2020,116,682
+England,E92000001,Nation,23/03/2020,2022,11074
